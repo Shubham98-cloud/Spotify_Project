@@ -1,0 +1,459 @@
+[
+  {
+    "cluster_id": 0,
+    "theme_name": "User Reviews",
+    "action_idea": "Improve user experience based on feedback.",
+    "representative_quotes": [
+      "is so good to hear music in this app, and I love how the app works 💪"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "14209479944",
+        "source": "app_store",
+        "author": "Ms “Ladie”",
+        "title": "Ms “Ladie”",
+        "content": "I Love Spotify",
+        "rating": 5,
+        "date": "2026-06-21T08:28:17-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "eb3a777f-ba30-4d59-a8e5-c7e103fae753",
+        "source": "play_store",
+        "author": "BOY G_HOST",
+        "title": "",
+        "content": "love this app",
+        "rating": 3,
+        "date": "2026-06-22T00:39:50Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "204079ea-2d18-49fc-86b7-60442a275a99",
+        "source": "play_store",
+        "author": "Gerian Arias",
+        "title": "",
+        "content": "is so good to hear music in this app, and I love how the app works 💪",
+        "rating": 5,
+        "date": "2026-06-22T00:34:35Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "Offer premium day-passes or ad-capping limits to improve retention of free tier users.",
+    "representative_quotes": [
+      "Terrible"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "37aec335-5881-40a6-a729-6afff40998ca",
+        "source": "play_store",
+        "author": "Tafadzwa Simon",
+        "title": "",
+        "content": "Perfect thank you for the app",
+        "rating": 5,
+        "date": "2026-06-22T00:47:29Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "0ce3d2ba-059c-440e-99f2-bc4cf28a13d4",
+        "source": "play_store",
+        "author": "Emanoel Santos",
+        "title": "",
+        "content": "I had a terrible experience; the app is awful, with numerous bugs and a terrible login.",
+        "rating": 1,
+        "date": "2026-06-22T00:34:47Z",
+        "app_version": "8.9.40.509",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "f0bbfdcb-6222-41c8-b374-bdc052d5a4f3",
+        "source": "play_store",
+        "author": "̊ʚまどかɞ ̊",
+        "title": "",
+        "content": "Terrible.Just terrible.What the hell do you mean 6 skips per hour ?? I just want to listen to music and alot of ads have been showing up ! And the premium version is too expensive.",
+        "rating": 1,
+        "date": "2026-06-22T00:34:31Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Premium User",
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "288dc194-69b3-49b0-9023-3d24b900b098",
+        "source": "play_store",
+        "author": "Ao Hl",
+        "title": "",
+        "content": "I only use cracked version of the app",
+        "rating": 1,
+        "date": "2026-06-22T00:33:17Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "theme_name": "User Reviews",
+    "action_idea": "Improve user experience based on feedback.",
+    "representative_quotes": [
+      "i like it and I can listen to music without having to change it every song"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "14209523649",
+        "source": "app_store",
+        "author": "Bodyguard627",
+        "title": "Spotify",
+        "content": "It is fun and I love listening to music on road trip",
+        "rating": 5,
+        "date": "2026-06-21T08:41:06-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "5d951012-5dc7-4601-b3b3-28857251fdcd",
+        "source": "play_store",
+        "author": "Natalie Davis",
+        "title": "",
+        "content": "i like it and I can listen to music without having to change it every song",
+        "rating": 4,
+        "date": "2026-06-22T00:46:28Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "Offer premium day-passes or ad-capping limits to improve retention of free tier users.",
+    "representative_quotes": [
+      "I love Spotify because you can search any kind of music you want and it has no ads"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "14209488022",
+        "source": "app_store",
+        "author": "ILovegoalkeeping0917",
+        "title": "Spotify",
+        "content": "Go to music app it has been helping me a lot with music and yeah I just love it",
+        "rating": 5,
+        "date": "2026-06-21T08:30:40-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209427906",
+        "source": "app_store",
+        "author": "sluerding",
+        "title": "Spotify is the best because a lot of artists are on there",
+        "content": "I love Spotify because you can search any kind of music you want and it has no ads. You should download it.",
+        "rating": 5,
+        "date": "2026-06-21T08:12:59-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "theme_name": "User Reviews",
+    "action_idea": "Improve user experience based on feedback.",
+    "representative_quotes": [
+      "Lately my recommendations have been stuck in an echo chamber"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "14209464346",
+        "source": "app_store",
+        "author": "cowmoomoounicirn1234567891044",
+        "title": "No premium.",
+        "content": "Spotify, if you don’t let me pick my music and play songs in the order I want without premium I’m deleting the app and threatening to boycott.",
+        "rating": 1,
+        "date": "2026-06-21T08:23:42-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Premium User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209419746",
+        "source": "app_store",
+        "author": "Using Reach to Teach!",
+        "title": "Motivating",
+        "content": "When I need motivation I pick my play list and it always gets me going!",
+        "rating": 5,
+        "date": "2026-06-21T08:10:40-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "bf906446-e7e1-44e7-9b0c-d9599149de47",
+        "source": "play_store",
+        "author": "Nasa Jihoon",
+        "title": "",
+        "content": "don't share my personal information",
+        "rating": 1,
+        "date": "2026-06-22T00:46:24Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_2_1781961477",
+        "source": "reddit",
+        "author": "MusicDiscoverer",
+        "title": "Algorithmic echo chamber is real",
+        "content": "Lately my recommendations have been stuck in an echo chamber. I listened to one jazz album and now all my discovery feeds are just jazz. Let me reset my taste profile!",
+        "rating": 3,
+        "date": "2026-06-20T13:17:57.078940Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "Offer premium day-passes or ad-capping limits to improve retention of free tier users.",
+    "representative_quotes": [
+      "There is a movie called Grandview U"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "14209519778",
+        "source": "app_store",
+        "author": "spotifygirliepop",
+        "title": "n iwjxnejdisjxiwjabxuahxudhw",
+        "content": "TO MANY ADS BROO😭✌️",
+        "rating": 3,
+        "date": "2026-06-21T08:39:57-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209511428",
+        "source": "app_store",
+        "author": "Chloe Alestra",
+        "title": "Some songs are not on here",
+        "content": "There is a movie called Grandview U.S.A, and the soundtrack is fire! But I cannot find it anywhere except on YouTube. If Spotify can add that soundtrack I would happy :)",
+        "rating": 4,
+        "date": "2026-06-21T08:37:29-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_3_1781864277",
+        "source": "reddit",
+        "author": "SpotifyUser_12",
+        "title": "Familiarity bias is killing music discovery",
+        "content": "Does anyone else feel like Spotify favors familiar artists too much? I skip a song 5 times and it still shows up in my daily mixes. Bring back true discovery.",
+        "rating": 3,
+        "date": "2026-06-19T10:17:57.078940Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_4_1781767077",
+        "source": "reddit",
+        "author": "PlaylistGuru",
+        "title": "Discovery feeds are boring now",
+        "content": "I used to find so many underground artists on Spotify. Now it just pushes top 40 tracks or songs from artists I already follow. True discovery is dead on this platform.",
+        "rating": 3,
+        "date": "2026-06-18T07:17:57.078940Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "theme_name": "Recommendation Repeat Loop Fatigue",
+    "action_idea": "Introduce an interactive 'Refresh Recommendations' slider to bypass familiarity bias.",
+    "representative_quotes": [
+      "Why does Spotify's discover weekly playlist keep repeating songs I've already liked or heard? It is so frustrating"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "14209484850",
+        "source": "app_store",
+        "author": "Mpilg",
+        "title": "Shuffle problem",
+        "content": "You guys have the worst shuffle ever . It replays the same songs doesn’t shuffle",
+        "rating": 1,
+        "date": "2026-06-21T08:29:43-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_0_1782155877",
+        "source": "reddit",
+        "author": "Disappointed_Listener",
+        "title": "Discover weekly repeats the same songs every week",
+        "content": "Why does Spotify's discover weekly playlist keep repeating songs I've already liked or heard? It is so frustrating. I want actual new music recommendations, not the same loop.",
+        "rating": 3,
+        "date": "2026-06-22T19:17:57.078940Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_1_1782058677",
+        "source": "reddit",
+        "author": "AudioHead_99",
+        "title": "Shuffle algorithm is completely broken",
+        "content": "Spotify shuffle is not random at all. It keeps playing the same 20 songs from my 500 song playlist. I hear the same tracks every time I click shuffle.",
+        "rating": 3,
+        "date": "2026-06-21T16:17:57.078940Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_5_1782101877",
+        "source": "reddit",
+        "author": "FreePremiumLover",
+        "title": "Shuffle repeat loop is driving me crazy",
+        "content": "Premium user here. The repeat loop on my offline playlists is driving me crazy. Shuffle keeps repeating the exact same sequence of music on my commutes.",
+        "rating": 3,
+        "date": "2026-06-22T04:17:57.078940Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Premium User",
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_6_1782004677",
+        "source": "reddit",
+        "author": "iOS_Streamer",
+        "title": "Recommendation algorithm loop issue",
+        "content": "The recommendation algorithm is stuck in a loop. Every radio station generated from a song plays the exact same artists. No variety at all.",
+        "rating": 3,
+        "date": "2026-06-21T01:17:57.078940Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": -1,
+    "theme_name": "Unclustered General Feedback",
+    "action_idea": "Monitor for new emerging themes as feedback grows.",
+    "representative_quotes": [
+      "spots on rains drops",
+      "good vibes"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "f5fff0fc-3e92-454f-9155-2176bdc7f221",
+        "source": "play_store",
+        "author": "MariaLuisaVillalobosHdz VillalobosHernandez",
+        "title": "",
+        "content": "spots on rains drops",
+        "rating": 2,
+        "date": "2026-06-22T00:40:15Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "365cd326-781b-4355-a7b1-c60be9ac6a5d",
+        "source": "play_store",
+        "author": "Killion Onyedika",
+        "title": "",
+        "content": "good vibes",
+        "rating": 5,
+        "date": "2026-06-22T00:34:48Z",
+        "app_version": "8.7.92.521",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  }
+]

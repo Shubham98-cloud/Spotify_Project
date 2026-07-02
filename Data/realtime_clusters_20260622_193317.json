@@ -1,0 +1,640 @@
+[
+  {
+    "cluster_id": 0,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "I Love Spotify"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "14209479944",
+        "source": "app_store",
+        "author": "Ms “Ladie”",
+        "title": "Ms “Ladie”",
+        "content": "I Love Spotify",
+        "rating": 5,
+        "date": "2026-06-21T08:28:17-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209384258",
+        "source": "app_store",
+        "author": "Jake1985 qqqqq",
+        "title": "Perfect",
+        "content": "Love it",
+        "rating": 5,
+        "date": "2026-06-21T08:00:23-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "01ffee54-b7ea-4747-ac68-aaefc9b18103",
+        "source": "play_store",
+        "author": "Tristan Harris",
+        "title": "",
+        "content": "I love it",
+        "rating": 5,
+        "date": "2026-06-22T00:59:19Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "TO MANY ADS BROO😭✌️",
+      "absolutely no ads W",
+      "Too much ads"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "14209519778",
+        "source": "app_store",
+        "author": "spotifygirliepop",
+        "title": "n iwjxnejdisjxiwjabxuahxudhw",
+        "content": "TO MANY ADS BROO😭✌️",
+        "rating": 3,
+        "date": "2026-06-21T08:39:57-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209379927",
+        "source": "app_store",
+        "author": "f CCBHC",
+        "title": "Good, but",
+        "content": "Too much ads",
+        "rating": 4,
+        "date": "2026-06-21T07:59:07-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "873eec61-737c-4a27-8377-37df651df54c",
+        "source": "play_store",
+        "author": "Liza Omar",
+        "title": "",
+        "content": "absolutely no ads W",
+        "rating": 5,
+        "date": "2026-06-22T00:54:00Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "There's bugs, a lot of ads, but overall it's good.",
+      "good app like music such a nice",
+      "The app is very good👍"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "14209412780",
+        "source": "app_store",
+        "author": "Shmitney Glee",
+        "title": "Me like",
+        "content": "Is Good",
+        "rating": 5,
+        "date": "2026-06-21T08:08:40-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "f44db110-61da-4fc4-83c3-642f422ff73e",
+        "source": "play_store",
+        "author": "Muhammad Rafiq Khan",
+        "title": "",
+        "content": "good app like music such a nice",
+        "rating": 5,
+        "date": "2026-06-22T01:01:09Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "1eee1e10-c77b-409c-b0c0-d24752d9a7a5",
+        "source": "play_store",
+        "author": "Maria",
+        "title": "",
+        "content": "The app is very good👍",
+        "rating": 5,
+        "date": "2026-06-22T00:56:26Z",
+        "app_version": "9.0.52.505",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": true
+      },
+      {
+        "review_id": "0f3d0d57-1fb2-47b3-837e-0fd97d6cc43e",
+        "source": "play_store",
+        "author": "Iyla Williams",
+        "title": "",
+        "content": "There's bugs, a lot of ads, but overall it's good.",
+        "rating": 4,
+        "date": "2026-06-22T00:53:47Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Free User",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "I love Spotify because you can search any kind of music you want and it has no ads. You should download it.",
+      "Go to music app it has been helping me a lot with music and yeah I just love it",
+      "It is fun and I love listening to music on road trip"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "14209523649",
+        "source": "app_store",
+        "author": "Bodyguard627",
+        "title": "Spotify",
+        "content": "It is fun and I love listening to music on road trip",
+        "rating": 5,
+        "date": "2026-06-21T08:41:06-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209488022",
+        "source": "app_store",
+        "author": "ILovegoalkeeping0917",
+        "title": "Spotify",
+        "content": "Go to music app it has been helping me a lot with music and yeah I just love it",
+        "rating": 5,
+        "date": "2026-06-21T08:30:40-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209427906",
+        "source": "app_store",
+        "author": "sluerding",
+        "title": "Spotify is the best because a lot of artists are on there",
+        "content": "I love Spotify because you can search any kind of music you want and it has no ads. You should download it.",
+        "rating": 5,
+        "date": "2026-06-21T08:12:59-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "Yeah, Spotify is good with its various amount of songs, but the constant ads constantly disturb me when I’m listening to my playlists. Also, why is Spotify able to play videos? Like, I’m not against it, but I thought Spotify was meant for just listening to music. Also, it’s outrageous that you need an account to listen to music. You can’t play music without an account, so you have to give Spotify your email, even though some people are against it and want to keep information like that private. They should let people play music for free! That way people can listen to Spotify whenever or however they want.",
+      "Honestly a super great app I just hate the fact that people who don’t have premium need to listen to like 4 or 5 adds (that’s what I had to listen to) which sucks and the fact that you have a limit to how many skips you have and a limit to how many songs you can chose? Like sorry but that’s genuinely stupid. I had to get premium which is definitely a life changer because I can skip and choose as many songs as I can without having to worry about anything. Overall it’s good but not good.",
+      "i like it and I can listen to music without having to change it every song"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "14209414851",
+        "source": "app_store",
+        "author": "justaguy :/",
+        "title": "eh",
+        "content": "Yeah, Spotify is good with its various amount of songs, but the constant ads constantly disturb me when I’m listening to my playlists. Also, why is Spotify able to play videos? Like, I’m not against it, but I thought Spotify was meant for just listening to music. Also, it’s outrageous that you need an account to listen to music. You can’t play music without an account, so you have to give Spotify your email, even though some people are against it and want to keep information like that private. They should let people play music for free! That way people can listen to Spotify whenever or however they want.",
+        "rating": 3,
+        "date": "2026-06-21T08:09:16-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Free User",
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209393958",
+        "source": "app_store",
+        "author": "Binniiiiitii",
+        "title": "It’s 50/50",
+        "content": "Honestly a super great app I just hate the fact that people who don’t have premium need to listen to like 4 or 5 adds (that’s what I had to listen to) which sucks and the fact that you have a limit to how many skips you have and a limit to how many songs you can chose? Like sorry but that’s genuinely stupid. I had to get premium which is definitely a life changer because I can skip and choose as many songs as I can without having to worry about anything. Overall it’s good but not good.",
+        "rating": 4,
+        "date": "2026-06-21T08:03:12-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Premium User",
+          "UI/UX Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "5d951012-5dc7-4601-b3b3-28857251fdcd",
+        "source": "play_store",
+        "author": "Natalie Davis",
+        "title": "",
+        "content": "i like it and I can listen to music without having to change it every song",
+        "rating": 4,
+        "date": "2026-06-22T00:46:28Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "theme_name": "Interface Layout and Navigation Disruption",
+    "action_idea": "🎨 Feature: Launch a 'Spotify Home Lab' opt-in program where power users (>3h/day listening) beta-test modular home screen layouts, including re-orderable sections: Recently Played, Discover, Your Artists, and Mood Mixes. A/B Experiment: Test a 'Persistent Mini-Player' widget that stays anchored at the top during browsing — measure tap-through rate on contextual discovery tiles vs. the current implementation over 14 days across iOS and Android cohorts separately. PM Hypothesis: Users who customize their home layout will show a 40% increase in feature discovery engagement and 20% longer session durations due to reduced cognitive friction in navigation, with the highest impact seen in users with 1-6 months of tenure (onboarding cliff zone). Secondary Action: Conduct a 5-second usability test (via in-app micro-survey) with new users in their first 7 days to identify the #1 navigation confusion point — layer heatmap data on top of this to guide the Q3 redesign sprint with quantitative backing.",
+    "representative_quotes": [
+      "The best music and podcast app. The personalized playlists are so for me, and Spotify Connect makes switching between devices effortless. Highly recommended!",
+      "New update sucks. The new widget has a bunch of stuff no one wants and tiny buttons you can't hit. App slow as hell since the update.",
+      "update has made the app worse, surprise surprise.... The enshitifaction of the modern world continues..."
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "7edb2aac-590a-4990-bb8d-7053b5bf6452",
+        "source": "play_store",
+        "author": "Josh Harding",
+        "title": "",
+        "content": "update has made the app worse, surprise surprise.... The enshitifaction of the modern world continues...",
+        "rating": 1,
+        "date": "2026-06-22T01:02:00Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "29d9bf31-c158-4f0e-86cf-449de6a7d441",
+        "source": "play_store",
+        "author": "Bonnie AndCried666",
+        "title": "",
+        "content": "New update sucks. The new widget has a bunch of stuff no one wants and tiny buttons you can't hit. App slow as hell since the update.",
+        "rating": 1,
+        "date": "2026-06-22T00:57:22Z",
+        "app_version": "",
+        "inferred_segments": [
+          "UI/UX Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "07590594-1fd6-49ac-9ab3-a6d7c8530519",
+        "source": "play_store",
+        "author": "Alyssa Angelique Mancao",
+        "title": "",
+        "content": "The best music and podcast app. The personalized playlists are so for me, and Spotify Connect makes switching between devices effortless. Highly recommended!",
+        "rating": 5,
+        "date": "2026-06-22T00:51:38Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "37aec335-5881-40a6-a729-6afff40998ca",
+        "source": "play_store",
+        "author": "Tafadzwa Simon",
+        "title": "",
+        "content": "Perfect thank you for the app",
+        "rating": 5,
+        "date": "2026-06-22T00:47:29Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "theme_name": "Recommendation Repeat Loop Fatigue",
+    "action_idea": "🔄 Feature: Launch 'Discovery Mode' — a dedicated toggle in Now Playing that forces Spotify's algorithm to break the familiarity loop by serving content from artists outside the user's top-50 listened pool. A/B Experiment: Expose 20% of Premium users to a 'Taste Refresh' weekly prompt that resets their taste profile weights partially (not fully), blending 40% familiar + 60% novel content for 14 days — measure new artist stream rate and skip rate delta. PM Hypothesis: Users who interact with the Discovery Mode toggle will show a 25% uplift in new artist streams and a 15% reduction in skip rates on Discover Weekly within the first 4 weeks, proving that user-controlled novelty injection beats purely algorithmic decisions. Secondary Action: Introduce a visual 'Novelty Dial' on the Discover Weekly playlist header letting users self-select freshness level (Familiar → Balanced → Bold), creating an explicit personalization signal that feeds back into the recommendation model.",
+    "representative_quotes": [
+      "Why does Spotify's discover weekly playlist keep repeating songs I've already liked or heard? It is so frustrating. I want actual new music recommendations, not the same loop.",
+      "Premium user here. The repeat loop on my offline playlists is driving me crazy. Shuffle keeps repeating the exact same sequence of music on my commutes.",
+      "Spotify shuffle is not random at all. It keeps playing the same 20 songs from my 500 song playlist. I hear the same tracks every time I click shuffle."
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "14209484850",
+        "source": "app_store",
+        "author": "Mpilg",
+        "title": "Shuffle problem",
+        "content": "You guys have the worst shuffle ever . It replays the same songs doesn’t shuffle",
+        "rating": 1,
+        "date": "2026-06-21T08:29:43-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_0_1782156896",
+        "source": "reddit",
+        "author": "Disappointed_Listener",
+        "title": "Discover weekly repeats the same songs every week",
+        "content": "Why does Spotify's discover weekly playlist keep repeating songs I've already liked or heard? It is so frustrating. I want actual new music recommendations, not the same loop.",
+        "rating": 3,
+        "date": "2026-06-22T19:34:56.784743Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_1_1782059696",
+        "source": "reddit",
+        "author": "AudioHead_99",
+        "title": "Shuffle algorithm is completely broken",
+        "content": "Spotify shuffle is not random at all. It keeps playing the same 20 songs from my 500 song playlist. I hear the same tracks every time I click shuffle.",
+        "rating": 3,
+        "date": "2026-06-21T16:34:56.784743Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_5_1782102896",
+        "source": "reddit",
+        "author": "FreePremiumLover",
+        "title": "Shuffle repeat loop is driving me crazy",
+        "content": "Premium user here. The repeat loop on my offline playlists is driving me crazy. Shuffle keeps repeating the exact same sequence of music on my commutes.",
+        "rating": 3,
+        "date": "2026-06-22T04:34:56.784743Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Premium User",
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_6_1782005696",
+        "source": "reddit",
+        "author": "iOS_Streamer",
+        "title": "Recommendation algorithm loop issue",
+        "content": "The recommendation algorithm is stuck in a loop. Every radio station generated from a song plays the exact same artists. No variety at all.",
+        "rating": 3,
+        "date": "2026-06-21T01:34:56.784743Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "theme_name": "Recommendation Repeat Loop Fatigue",
+    "action_idea": "🔄 Feature: Launch 'Discovery Mode' — a dedicated toggle in Now Playing that forces Spotify's algorithm to break the familiarity loop by serving content from artists outside the user's top-50 listened pool. A/B Experiment: Expose 20% of Premium users to a 'Taste Refresh' weekly prompt that resets their taste profile weights partially (not fully), blending 40% familiar + 60% novel content for 14 days — measure new artist stream rate and skip rate delta. PM Hypothesis: Users who interact with the Discovery Mode toggle will show a 25% uplift in new artist streams and a 15% reduction in skip rates on Discover Weekly within the first 4 weeks, proving that user-controlled novelty injection beats purely algorithmic decisions. Secondary Action: Introduce a visual 'Novelty Dial' on the Discover Weekly playlist header letting users self-select freshness level (Familiar → Balanced → Bold), creating an explicit personalization signal that feeds back into the recommendation model.",
+    "representative_quotes": [
+      "Lately my recommendations have been stuck in an echo chamber. I listened to one jazz album and now all my discovery feeds are just jazz. Let me reset my taste profile!",
+      "Recently noticed a bug. Whenever I add songs in queue after 2-3 songs, the player stops I need to reopen the app and check or again click on play.",
+      "can have 3,000 songs in a Playlist and it plays the same 100 songs they need to work on their rotation of songs that are played its a joke"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "14209419746",
+        "source": "app_store",
+        "author": "Using Reach to Teach!",
+        "title": "Motivating",
+        "content": "When I need motivation I pick my play list and it always gets me going!",
+        "rating": 5,
+        "date": "2026-06-21T08:10:40-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "23dd125f-c369-4377-8df3-e463e070539d",
+        "source": "play_store",
+        "author": "Amogh Bedekar",
+        "title": "",
+        "content": "Recently noticed a bug. Whenever I add songs in queue after 2-3 songs, the player stops I need to reopen the app and check or again click on play.",
+        "rating": 3,
+        "date": "2026-06-22T00:59:49Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "8220e5fc-a68b-45a3-b0f6-dc24ac137569",
+        "source": "play_store",
+        "author": "Dalton Koontz",
+        "title": "",
+        "content": "can have 3,000 songs in a Playlist and it plays the same 100 songs they need to work on their rotation of songs that are played its a joke",
+        "rating": 1,
+        "date": "2026-06-22T00:57:38Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_2_1781962496",
+        "source": "reddit",
+        "author": "MusicDiscoverer",
+        "title": "Algorithmic echo chamber is real",
+        "content": "Lately my recommendations have been stuck in an echo chamber. I listened to one jazz album and now all my discovery feeds are just jazz. Let me reset my taste profile!",
+        "rating": 3,
+        "date": "2026-06-20T13:34:56.784743Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "moja re not app tu kun kun Assam r drill ase",
+      "don't share my personal information",
+      "delete date 22 jun 2026"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "8658f028-3cf6-47cf-9ccb-212bfae4b28c",
+        "source": "play_store",
+        "author": "January Dutta",
+        "title": "",
+        "content": "moja re not app tu kun kun Assam r drill ase",
+        "rating": 5,
+        "date": "2026-06-22T01:01:32Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": true
+      },
+      {
+        "review_id": "49b219d3-5922-4967-a3f7-ab3e6999d162",
+        "source": "play_store",
+        "author": "vishal Valmiki",
+        "title": "",
+        "content": "delete date 22 jun 2026",
+        "rating": 1,
+        "date": "2026-06-22T00:49:33Z",
+        "app_version": "9.1.56.574",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "bf906446-e7e1-44e7-9b0c-d9599149de47",
+        "source": "play_store",
+        "author": "Nasa Jihoon",
+        "title": "",
+        "content": "don't share my personal information",
+        "rating": 1,
+        "date": "2026-06-22T00:46:24Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": -1,
+    "theme_name": "Unclustered General Feedback",
+    "action_idea": "Monitor for new emerging themes as feedback grows.",
+    "representative_quotes": [
+      "There is a movie called Grandview U.S.A, and the soundtrack is fire! But I cannot find it anywhere e",
+      "Spotify, if you don’t let me pick my music and play songs in the order I want without premium I’m de"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "14209511428",
+        "source": "app_store",
+        "author": "Chloe Alestra",
+        "title": "Some songs are not on here",
+        "content": "There is a movie called Grandview U.S.A, and the soundtrack is fire! But I cannot find it anywhere except on YouTube. If Spotify can add that soundtrack I would happy :)",
+        "rating": 4,
+        "date": "2026-06-21T08:37:29-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209464346",
+        "source": "app_store",
+        "author": "cowmoomoounicirn1234567891044",
+        "title": "No premium.",
+        "content": "Spotify, if you don’t let me pick my music and play songs in the order I want without premium I’m deleting the app and threatening to boycott.",
+        "rating": 1,
+        "date": "2026-06-21T08:23:42-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Premium User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_3_1781865296",
+        "source": "reddit",
+        "author": "SpotifyUser_12",
+        "title": "Familiarity bias is killing music discovery",
+        "content": "Does anyone else feel like Spotify favors familiar artists too much? I skip a song 5 times and it still shows up in my daily mixes. Bring back true discovery.",
+        "rating": 3,
+        "date": "2026-06-19T10:34:56.784743Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_4_1781768096",
+        "source": "reddit",
+        "author": "PlaylistGuru",
+        "title": "Discovery feeds are boring now",
+        "content": "I used to find so many underground artists on Spotify. Now it just pushes top 40 tracks or songs from artists I already follow. True discovery is dead on this platform.",
+        "rating": 3,
+        "date": "2026-06-18T07:34:56.784743Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  }
+]

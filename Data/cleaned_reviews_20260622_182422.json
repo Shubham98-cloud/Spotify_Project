@@ -1,0 +1,58 @@
+[
+  {
+    "review_id": "14209523649",
+    "source": "app_store",
+    "author": "Bodyguard627",
+    "title": "Spotify",
+    "content": "It is fun and I love listening to music on road trip",
+    "rating": 5,
+    "date": "2026-06-21T08:41:06-07:00",
+    "app_version": "9.1.58",
+    "inferred_segments": [
+      "General Feedback"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "14209520546",
+    "source": "app_store",
+    "author": "Portimo1",
+    "title": "Great selection of 80’s jams",
+    "content": "Yay",
+    "rating": 5,
+    "date": "2026-06-21T08:40:11-07:00",
+    "app_version": "9.1.58",
+    "inferred_segments": [
+      "General Feedback"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "c55862c3-de54-4165-bd79-503ec4cf778a",
+    "source": "play_store",
+    "author": "Arjan van Bentem",
+    "title": "",
+    "content": "Widget is very buggy since the June 2026 version, most often only showing some animated dots which even ignore tapping to open the app. One can still install the old widget, but that one only tells you to install the new one.",
+    "rating": 2,
+    "date": "2026-06-21T23:52:51Z",
+    "app_version": "9.1.58.1567",
+    "inferred_segments": [
+      "Performance/Stability Issue"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "b2bb1d26-9a36-414d-93cc-ba64c126514b",
+    "source": "play_store",
+    "author": "mahesh krisshnaa",
+    "title": "",
+    "content": "nice",
+    "rating": 5,
+    "date": "2026-06-21T23:52:44Z",
+    "app_version": "9.1.52.1394",
+    "inferred_segments": [
+      "General Feedback"
+    ],
+    "is_translated": false
+  }
+]

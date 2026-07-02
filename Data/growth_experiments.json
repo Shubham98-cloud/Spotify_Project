@@ -1,0 +1,47 @@
+[
+  {
+    "theme_name": "User Reviews",
+    "title": "A/B Test: Reset Discovery",
+    "hypothesis": "If we introduce a reset recommendation button, familiarity repeat complaints will decrease.",
+    "cohort": "Free Users",
+    "metric": "+10% discovery CTR",
+    "id": "card_1782134861",
+    "created_at": "2026-06-22 18:57:41 UTC"
+  },
+  {
+    "theme_name": "User Reviews",
+    "title": "A/B Test: Reset Discovery",
+    "hypothesis": "If we introduce a reset recommendation button, familiarity repeat complaints will decrease.",
+    "cohort": "iOS Users",
+    "metric": "+10% discovery CTR",
+    "id": "card_1782134934",
+    "created_at": "2026-06-22 18:58:54 UTC"
+  },
+  {
+    "theme_name": "User Reviews",
+    "title": "A/B Test: Reset Discovery",
+    "hypothesis": "If we introduce a reset recommendation button, familiarity repeat complaints will decrease.",
+    "cohort": "Premium Users",
+    "metric": "+10% discovery CTR",
+    "id": "card_1782135038",
+    "created_at": "2026-06-22 19:00:38 UTC"
+  },
+  {
+    "theme_name": "Premium Value Perception Gap",
+    "title": "A/B Test: Reset Discovery",
+    "hypothesis": " If we introduce a reset recommendation button, familiarity repeat complaints will decrease.",
+    "cohort": "All Users",
+    "metric": "15%",
+    "id": "card_1782481649",
+    "created_at": "2026-06-26 19:17:29 UTC"
+  },
+  {
+    "theme_name": "Free User Ad Frequency Frustration",
+    "title": "A/B Test: Free User Ad Frequency Frustration",
+    "hypothesis": "If we address the 'Free User Ad Frequency Frustration' complaint by implementing: \ud83d\udca1 Feature: Introduce 'Spotify Ad Tokens' \u2014 a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment \u2014 measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at \u20b929 / $0.99 to capture impulsive upgrade intent \u2014 measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory., then we will increase active music discovery session metric Lifts.",
+    "cohort": "Premium Users",
+    "metric": "+10% engagement lift",
+    "id": "card_1782484011",
+    "created_at": "2026-06-26 19:56:51 UTC"
+  }
+]

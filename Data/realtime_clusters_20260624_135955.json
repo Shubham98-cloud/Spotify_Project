@@ -1,0 +1,123 @@
+[
+  {
+    "cluster_id": 0,
+    "theme_name": "Recommendation Repeat Loop Fatigue",
+    "action_idea": "🔄 Feature: Launch 'Discovery Mode' — a dedicated toggle in Now Playing that forces Spotify's algorithm to break the familiarity loop by serving content from artists outside the user's top-50 listened pool. A/B Experiment: Expose 20% of Premium users to a 'Taste Refresh' weekly prompt that resets their taste profile weights partially (not fully), blending 40% familiar + 60% novel content for 14 days — measure new artist stream rate and skip rate delta. PM Hypothesis: Users who interact with the Discovery Mode toggle will show a 25% uplift in new artist streams and a 15% reduction in skip rates on Discover Weekly within the first 4 weeks, proving that user-controlled novelty injection beats purely algorithmic decisions. Secondary Action: Introduce a visual 'Novelty Dial' on the Discover Weekly playlist header letting users self-select freshness level (Familiar → Balanced → Bold), creating an explicit personalization signal that feeds back into the recommendation model.",
+    "representative_quotes": [
+      "Why does Spotify's discover weekly playlist keep repeating songs I've already liked or heard? It is so frustrating. I want actual new music recommendations, not the same loop.",
+      "Spotify shuffle is not random at all. It keeps playing the same 20 songs from my 500 song playlist. I hear the same tracks every time I click shuffle."
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_0_1782309600",
+        "source": "reddit",
+        "author": "Disappointed_Listener",
+        "title": "Discover weekly repeats the same songs every week",
+        "content": "Why does Spotify's discover weekly playlist keep repeating songs I've already liked or heard? It is so frustrating. I want actual new music recommendations, not the same loop.",
+        "rating": 3,
+        "date": "2026-06-24T14:00:00.849293Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_1_1781765940",
+        "source": "reddit",
+        "author": "AudioHead_99",
+        "title": "Shuffle algorithm is completely broken",
+        "content": "Spotify shuffle is not random at all. It keeps playing the same 20 songs from my 500 song playlist. I hear the same tracks every time I click shuffle.",
+        "rating": 3,
+        "date": "2026-06-18T06:59:00.849293Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "By far the best music app I own",
+      "it's Soo good my best songs app"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "14215929357",
+        "source": "app_store",
+        "author": "Delilah the best thing",
+        "title": "Yes",
+        "content": "By far the best music app I own",
+        "rating": 5,
+        "date": "2026-06-23T01:36:20-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "87860989-4c01-49cc-b8c1-012a75a1f1ce",
+        "source": "play_store",
+        "author": "Hafsa Akter Shilpi",
+        "title": "",
+        "content": "it's Soo good my best songs app",
+        "rating": 5,
+        "date": "2026-06-23T19:27:02Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": -1,
+    "theme_name": "Unclustered General Feedback",
+    "action_idea": "Monitor for new emerging themes as feedback grows.",
+    "representative_quotes": [
+      "Awesome song",
+      "now crashes when I try to search, and when I select a new album. fresh install, and cleared cache."
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "14215936720",
+        "source": "app_store",
+        "author": "Mandykallman",
+        "title": "When it rains by Luke Bryan",
+        "content": "Awesome song",
+        "rating": 5,
+        "date": "2026-06-23T01:39:46-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "5413f434-207a-417c-869e-e1ddad2df38d",
+        "source": "play_store",
+        "author": "Stephen Makar",
+        "title": "",
+        "content": "now crashes when I try to search, and when I select a new album. fresh install, and cleared cache.",
+        "rating": 1,
+        "date": "2026-06-23T19:26:54Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  }
+]

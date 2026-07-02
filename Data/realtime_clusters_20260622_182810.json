@@ -1,0 +1,162 @@
+[
+  {
+    "cluster_id": 0,
+    "theme_name": "User Reviews",
+    "action_idea": "Improve user experience based on feedback.",
+    "representative_quotes": [
+      "Go to music app it has been helping me a lot with music and yeah I just love it"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "14209523649",
+        "source": "app_store",
+        "author": "Bodyguard627",
+        "title": "Spotify",
+        "content": "It is fun and I love listening to music on road trip",
+        "rating": 5,
+        "date": "2026-06-21T08:41:06-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209488022",
+        "source": "app_store",
+        "author": "ILovegoalkeeping0917",
+        "title": "Spotify",
+        "content": "Go to music app it has been helping me a lot with music and yeah I just love it",
+        "rating": 5,
+        "date": "2026-06-21T08:30:40-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "Offer premium day-passes or ad-capping limits to improve retention of free tier users.",
+    "representative_quotes": [
+      "Widget is very buggy since the June 2026 version, most often only showing some animated dots which even ignore tapping to open the app"
+    ],
+    "size": 6,
+    "reviews": [
+      {
+        "review_id": "14209519778",
+        "source": "app_store",
+        "author": "spotifygirliepop",
+        "title": "n iwjxnejdisjxiwjabxuahxudhw",
+        "content": "TO MANY ADS BROO😭✌️",
+        "rating": 3,
+        "date": "2026-06-21T08:39:57-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209511428",
+        "source": "app_store",
+        "author": "Chloe Alestra",
+        "title": "Some songs are not on here",
+        "content": "There is a movie called Grandview U.S.A, and the soundtrack is fire! But I cannot find it anywhere except on YouTube. If Spotify can add that soundtrack I would happy :)",
+        "rating": 4,
+        "date": "2026-06-21T08:37:29-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "0f21cf0a-fbff-47b8-b93a-4c1cd19f65c1",
+        "source": "play_store",
+        "author": "Harmony",
+        "title": "",
+        "content": "I haven't seen more of a greedy app. there are way too many ads, 6? 5? 4? Iridiculous, honestly. the skips and your own choice of songs are so limited. the price went up of premium which is even more crazy",
+        "rating": 2,
+        "date": "2026-06-21T23:55:17Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Premium User",
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "d946de2f-ac62-4cf7-8acd-1b6643b16f8f",
+        "source": "play_store",
+        "author": "Hiyansh Goswami",
+        "title": "",
+        "content": "every song on this 5 stars with ads and 7 stars without ads",
+        "rating": 5,
+        "date": "2026-06-21T23:54:42Z",
+        "app_version": "9.0.68.632",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "c55862c3-de54-4165-bd79-503ec4cf778a",
+        "source": "play_store",
+        "author": "Arjan van Bentem",
+        "title": "",
+        "content": "Widget is very buggy since the June 2026 version, most often only showing some animated dots which even ignore tapping to open the app. One can still install the old widget, but that one only tells you to install the new one.",
+        "rating": 2,
+        "date": "2026-06-21T23:52:51Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "5c98f456-2769-47f1-af12-f9f9699b3efd",
+        "source": "play_store",
+        "author": "Ahmed El hassani",
+        "title": "",
+        "content": "so. good",
+        "rating": 5,
+        "date": "2026-06-21T23:52:06Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": -1,
+    "theme_name": "Unclustered General Feedback",
+    "action_idea": "Monitor for new emerging themes as feedback grows.",
+    "representative_quotes": [
+      "nice"
+    ],
+    "size": 1,
+    "reviews": [
+      {
+        "review_id": "b2bb1d26-9a36-414d-93cc-ba64c126514b",
+        "source": "play_store",
+        "author": "mahesh krisshnaa",
+        "title": "",
+        "content": "nice",
+        "rating": 5,
+        "date": "2026-06-21T23:52:44Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  }
+]

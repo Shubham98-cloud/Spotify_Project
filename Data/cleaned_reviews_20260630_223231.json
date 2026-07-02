@@ -1,0 +1,199 @@
+[
+  {
+    "review_id": "14242225661",
+    "source": "app_store",
+    "author": "Socrrte",
+    "title": "Gabe horn",
+    "content": "Helped me when no one was there",
+    "rating": 5,
+    "date": "2026-06-29T12:45:37-07:00",
+    "app_version": "9.1.60",
+    "inferred_segments": [
+      "General Feedback"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "14242208016",
+    "source": "app_store",
+    "author": "Raphael Raphael Raphael",
+    "title": "I didn’t signup for Spotify. RSVP",
+    "content": "Refund any monies. David Geist Glendale ca   RSVP",
+    "rating": 1,
+    "date": "2026-06-29T12:39:44-07:00",
+    "app_version": "9.1.60",
+    "inferred_segments": [
+      "General Feedback"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "6c345d08-94f3-4316-ac7a-801dcf6f5f37",
+    "source": "play_store",
+    "author": "Viktor",
+    "title": "",
+    "content": "why I can't listening my playlist or albums",
+    "rating": 1,
+    "date": "2026-06-30T04:02:24Z",
+    "app_version": "9.1.60.1970",
+    "inferred_segments": [
+      "Discovery Issue"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "359907b0-3a74-4a87-b0a8-ee8040916fc5",
+    "source": "play_store",
+    "author": "Sarah Welker",
+    "title": "",
+    "content": "best music app I ever used",
+    "rating": 5,
+    "date": "2026-06-30T04:01:49Z",
+    "app_version": "9.1.60.1970",
+    "inferred_segments": [
+      "General Feedback"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_0_1782858760",
+    "source": "reddit",
+    "author": "UserX",
+    "title": "Broken shuffle",
+    "content": "Shuffle plays same songs",
+    "rating": 3,
+    "date": "2026-06-30T22:32:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "Discovery Issue",
+      "Performance/Stability Issue"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_1_1782850540",
+    "source": "reddit",
+    "author": "MusicFan",
+    "title": "Recommendation echo",
+    "content": "Recommendations are stuck",
+    "rating": 3,
+    "date": "2026-06-30T20:15:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "Discovery Issue"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_2_1782842320",
+    "source": "reddit",
+    "author": "Commuter",
+    "title": "Loop issue",
+    "content": "Same tracks repeat every day",
+    "rating": 3,
+    "date": "2026-06-30T17:58:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "Discovery Issue"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_3_1782834100",
+    "source": "reddit",
+    "author": "AudioLover",
+    "title": "Stuck mix",
+    "content": "Daily mix does not update",
+    "rating": 3,
+    "date": "2026-06-30T15:41:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "General Feedback"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_4_1782825880",
+    "source": "reddit",
+    "author": "PlaylistMaker",
+    "title": "Stuck playlist",
+    "content": "Playlist recommendations are stale",
+    "rating": 3,
+    "date": "2026-06-30T13:24:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "Discovery Issue"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_5_1782817660",
+    "source": "reddit",
+    "author": "RadioListener",
+    "title": "Stuck radio",
+    "content": "Artist radio is repetitive",
+    "rating": 3,
+    "date": "2026-06-30T11:07:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "General Feedback"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_6_1782809440",
+    "source": "reddit",
+    "author": "SearchUser",
+    "title": "Search issues",
+    "content": "Search fails to find new music",
+    "rating": 3,
+    "date": "2026-06-30T08:50:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "General Feedback"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_7_1782797620",
+    "source": "reddit",
+    "author": "GrowthHacker",
+    "title": "Feedback loop",
+    "content": "Algorithm favors familiar music",
+    "rating": 3,
+    "date": "2026-06-30T05:33:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "Discovery Issue"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_8_1782793000",
+    "source": "reddit",
+    "author": "AdHater",
+    "title": "Too many ads",
+    "content": "Too many ads on free version",
+    "rating": 3,
+    "date": "2026-06-30T04:16:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "Free User"
+    ],
+    "is_translated": false
+  },
+  {
+    "review_id": "reddit_mock_9_1782784780",
+    "source": "reddit",
+    "author": "PremiumUser",
+    "title": "Offline bug",
+    "content": "Offline mode keeps failing",
+    "rating": 3,
+    "date": "2026-06-30T01:59:40.780148Z",
+    "app_version": "",
+    "inferred_segments": [
+      "Performance/Stability Issue"
+    ],
+    "is_translated": false
+  }
+]

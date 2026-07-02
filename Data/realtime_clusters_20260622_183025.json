@@ -1,0 +1,162 @@
+[
+  {
+    "cluster_id": 0,
+    "theme_name": "App Performance and Stability Glitches",
+    "action_idea": "Deploy targeted hotfixes for memory leaks and offline playback crashes.",
+    "representative_quotes": [
+      "Recently, the app has been buggy"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "14209523649",
+        "source": "app_store",
+        "author": "Bodyguard627",
+        "title": "Spotify",
+        "content": "It is fun and I love listening to music on road trip",
+        "rating": 5,
+        "date": "2026-06-21T08:41:06-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209511428",
+        "source": "app_store",
+        "author": "Chloe Alestra",
+        "title": "Some songs are not on here",
+        "content": "There is a movie called Grandview U.S.A, and the soundtrack is fire! But I cannot find it anywhere except on YouTube. If Spotify can add that soundtrack I would happy :)",
+        "rating": 4,
+        "date": "2026-06-21T08:37:29-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209488022",
+        "source": "app_store",
+        "author": "ILovegoalkeeping0917",
+        "title": "Spotify",
+        "content": "Go to music app it has been helping me a lot with music and yeah I just love it",
+        "rating": 5,
+        "date": "2026-06-21T08:30:40-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "a968ed99-c8f0-4dfb-b01e-ab2c2b675e59",
+        "source": "play_store",
+        "author": "TJ Holloway",
+        "title": "",
+        "content": "usually ok but there's a bug that's making it shut off randomly. please fix!",
+        "rating": 4,
+        "date": "2026-06-21T23:59:29Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "e4be0acc-374d-4563-a909-d071119893e7",
+        "source": "play_store",
+        "author": "Anne Kessing",
+        "title": "",
+        "content": "Recently, the app has been buggy. It started with songs randomly having parts \"skip\" like a bad CD. Now it just fully closes. Tried clearing cache and data, uninstalled and re-installed. Still crashing, and pretty frustrating.",
+        "rating": 1,
+        "date": "2026-06-21T23:59:29Z",
+        "app_version": "9.1.58.1550",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "Offer premium day-passes or ad-capping limits to improve retention of free tier users.",
+    "representative_quotes": [
+      "every song on this 5 stars with ads and 7 stars without ads"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "14209519778",
+        "source": "app_store",
+        "author": "spotifygirliepop",
+        "title": "n iwjxnejdisjxiwjabxuahxudhw",
+        "content": "TO MANY ADS BROO😭✌️",
+        "rating": 3,
+        "date": "2026-06-21T08:39:57-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "52c95763-0d9f-488f-8c97-acfeafbbb8c5",
+        "source": "play_store",
+        "author": "Marshall Barnett",
+        "title": "",
+        "content": "love this app!!!",
+        "rating": 5,
+        "date": "2026-06-21T23:58:45Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "d946de2f-ac62-4cf7-8acd-1b6643b16f8f",
+        "source": "play_store",
+        "author": "Hiyansh Goswami",
+        "title": "",
+        "content": "every song on this 5 stars with ads and 7 stars without ads",
+        "rating": 5,
+        "date": "2026-06-21T23:54:42Z",
+        "app_version": "9.0.68.632",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": -1,
+    "theme_name": "Unclustered General Feedback",
+    "action_idea": "Monitor for new emerging themes as feedback grows.",
+    "representative_quotes": [
+      "I haven't seen more of a greedy app. there are way too many ads, 6? 5? 4? Iridiculous, honestly. the"
+    ],
+    "size": 1,
+    "reviews": [
+      {
+        "review_id": "0f21cf0a-fbff-47b8-b93a-4c1cd19f65c1",
+        "source": "play_store",
+        "author": "Harmony",
+        "title": "",
+        "content": "I haven't seen more of a greedy app. there are way too many ads, 6? 5? 4? Iridiculous, honestly. the skips and your own choice of songs are so limited. the price went up of premium which is even more crazy",
+        "rating": 2,
+        "date": "2026-06-21T23:55:17Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Premium User",
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  }
+]

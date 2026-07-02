@@ -1,0 +1,52 @@
+[
+  {
+    "cluster_id": 0,
+    "theme_name": "User Reviews",
+    "action_idea": "Improve user experience based on feedback.",
+    "representative_quotes": [
+      "It is fun and I love listening to music on road trip"
+    ],
+    "size": 1,
+    "reviews": [
+      {
+        "review_id": "14209523649",
+        "source": "app_store",
+        "author": "Bodyguard627",
+        "title": "Spotify",
+        "content": "It is fun and I love listening to music on road trip",
+        "rating": 5,
+        "date": "2026-06-21T08:41:06-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "theme_name": "User Reviews",
+    "action_idea": "Improve user experience based on feedback.",
+    "representative_quotes": [
+      "very good if you have premium"
+    ],
+    "size": 1,
+    "reviews": [
+      {
+        "review_id": "52ed72cf-0267-4686-9769-1605d51a24ff",
+        "source": "play_store",
+        "author": "Charlie Hall",
+        "title": "",
+        "content": "very good if you have premium",
+        "rating": 5,
+        "date": "2026-06-22T00:01:21Z",
+        "app_version": "9.1.56.574",
+        "inferred_segments": [
+          "Premium User"
+        ],
+        "is_translated": false
+      }
+    ]
+  }
+]

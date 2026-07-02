@@ -1,0 +1,2805 @@
+[
+  {
+    "cluster_id": 0,
+    "theme_name": "Recommendation Repeat Loop Fatigue",
+    "action_idea": "🔄 Feature: Launch 'Discovery Mode' — a dedicated toggle in Now Playing that forces Spotify's algorithm to break the familiarity loop by serving content from artists outside the user's top-50 listened pool. A/B Experiment: Expose 20% of Premium users to a 'Taste Refresh' weekly prompt that resets their taste profile weights partially (not fully), blending 40% familiar + 60% novel content for 14 days — measure new artist stream rate and skip rate delta. PM Hypothesis: Users who interact with the Discovery Mode toggle will show a 25% uplift in new artist streams and a 15% reduction in skip rates on Discover Weekly within the first 4 weeks, proving that user-controlled novelty injection beats purely algorithmic decisions. Secondary Action: Introduce a visual 'Novelty Dial' on the Discover Weekly playlist header letting users self-select freshness level (Familiar → Balanced → Bold), creating an explicit personalization signal that feeds back into the recommendation model.",
+    "representative_quotes": [
+      "Shuffle plays same songs"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_0_1782504128",
+        "source": "reddit",
+        "author": "UserX",
+        "title": "Broken shuffle",
+        "content": "Shuffle plays same songs",
+        "rating": 3,
+        "date": "2026-06-26T20:02:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_16_1782484208",
+        "source": "reddit",
+        "author": "UserX",
+        "title": "Broken shuffle",
+        "content": "Shuffle plays same songs",
+        "rating": 3,
+        "date": "2026-06-26T14:30:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_32_1782467888",
+        "source": "reddit",
+        "author": "UserX",
+        "title": "Broken shuffle",
+        "content": "Shuffle plays same songs",
+        "rating": 3,
+        "date": "2026-06-26T09:58:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_48_1782447968",
+        "source": "reddit",
+        "author": "UserX",
+        "title": "Broken shuffle",
+        "content": "Shuffle plays same songs",
+        "rating": 3,
+        "date": "2026-06-26T04:26:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_64_1782431648",
+        "source": "reddit",
+        "author": "UserX",
+        "title": "Broken shuffle",
+        "content": "Shuffle plays same songs",
+        "rating": 3,
+        "date": "2026-06-25T23:54:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "theme_name": "Recommendation Repeat Loop Fatigue",
+    "action_idea": "🔄 Feature: Launch 'Discovery Mode' — a dedicated toggle in Now Playing that forces Spotify's algorithm to break the familiarity loop by serving content from artists outside the user's top-50 listened pool. A/B Experiment: Expose 20% of Premium users to a 'Taste Refresh' weekly prompt that resets their taste profile weights partially (not fully), blending 40% familiar + 60% novel content for 14 days — measure new artist stream rate and skip rate delta. PM Hypothesis: Users who interact with the Discovery Mode toggle will show a 25% uplift in new artist streams and a 15% reduction in skip rates on Discover Weekly within the first 4 weeks, proving that user-controlled novelty injection beats purely algorithmic decisions. Secondary Action: Introduce a visual 'Novelty Dial' on the Discover Weekly playlist header letting users self-select freshness level (Familiar → Balanced → Bold), creating an explicit personalization signal that feeds back into the recommendation model.",
+    "representative_quotes": [
+      "Same tracks repeat every day"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_2_1782502088",
+        "source": "reddit",
+        "author": "Commuter",
+        "title": "Loop issue",
+        "content": "Same tracks repeat every day",
+        "rating": 3,
+        "date": "2026-06-26T19:28:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_18_1782485768",
+        "source": "reddit",
+        "author": "Commuter",
+        "title": "Loop issue",
+        "content": "Same tracks repeat every day",
+        "rating": 3,
+        "date": "2026-06-26T14:56:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_34_1782465848",
+        "source": "reddit",
+        "author": "Commuter",
+        "title": "Loop issue",
+        "content": "Same tracks repeat every day",
+        "rating": 3,
+        "date": "2026-06-26T09:24:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_50_1782449528",
+        "source": "reddit",
+        "author": "Commuter",
+        "title": "Loop issue",
+        "content": "Same tracks repeat every day",
+        "rating": 3,
+        "date": "2026-06-26T04:52:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_66_1782426008",
+        "source": "reddit",
+        "author": "Commuter",
+        "title": "Loop issue",
+        "content": "Same tracks repeat every day",
+        "rating": 3,
+        "date": "2026-06-25T22:20:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "theme_name": "Music Discovery Algorithm Opacity",
+    "action_idea": "🔍 Feature: Introduce 'Why This Song?' — a contextual explanation panel (similar to Netflix's match score) surfacing 2-3 reasons why a track was recommended (e.g., 'Because you played X artist 4 times this week' or 'Trending among similar listeners in your city'). A/B Experiment: Test an 'Explainability Badge' on 30% of Discover Weekly tracks — measure if transparent algorithmic reasoning increases listen-through rate vs. control over 4 weeks, with secondary metrics on saves-to-library and playlist additions. PM Hypothesis: Algorithmic transparency will increase Discover Weekly full-listen rate by 18% and reduce the 'skip-on-first-listen' rate by 22%, as users feel informed rather than randomly served content, building long-term trust in Spotify's curation capabilities. Secondary Action: Build a 'Discovery Report' monthly card in each user's profile showing listening evolution (new genres explored, artists discovered, furthest genre leap from baseline) — design it as a shareable card to create organic viral growth loops.",
+    "representative_quotes": [
+      "Playlist recommendations are stale"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_4_1782500048",
+        "source": "reddit",
+        "author": "PlaylistMaker",
+        "title": "Stuck playlist",
+        "content": "Playlist recommendations are stale",
+        "rating": 3,
+        "date": "2026-06-26T18:54:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_20_1782480128",
+        "source": "reddit",
+        "author": "PlaylistMaker",
+        "title": "Stuck playlist",
+        "content": "Playlist recommendations are stale",
+        "rating": 3,
+        "date": "2026-06-26T13:22:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_36_1782463808",
+        "source": "reddit",
+        "author": "PlaylistMaker",
+        "title": "Stuck playlist",
+        "content": "Playlist recommendations are stale",
+        "rating": 3,
+        "date": "2026-06-26T08:50:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_52_1782443888",
+        "source": "reddit",
+        "author": "PlaylistMaker",
+        "title": "Stuck playlist",
+        "content": "Playlist recommendations are stale",
+        "rating": 3,
+        "date": "2026-06-26T03:18:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_68_1782427568",
+        "source": "reddit",
+        "author": "PlaylistMaker",
+        "title": "Stuck playlist",
+        "content": "Playlist recommendations are stale",
+        "rating": 3,
+        "date": "2026-06-25T22:46:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "theme_name": "Music Discovery Algorithm Opacity",
+    "action_idea": "🔍 Feature: Introduce 'Why This Song?' — a contextual explanation panel (similar to Netflix's match score) surfacing 2-3 reasons why a track was recommended (e.g., 'Because you played X artist 4 times this week' or 'Trending among similar listeners in your city'). A/B Experiment: Test an 'Explainability Badge' on 30% of Discover Weekly tracks — measure if transparent algorithmic reasoning increases listen-through rate vs. control over 4 weeks, with secondary metrics on saves-to-library and playlist additions. PM Hypothesis: Algorithmic transparency will increase Discover Weekly full-listen rate by 18% and reduce the 'skip-on-first-listen' rate by 22%, as users feel informed rather than randomly served content, building long-term trust in Spotify's curation capabilities. Secondary Action: Build a 'Discovery Report' monthly card in each user's profile showing listening evolution (new genres explored, artists discovered, furthest genre leap from baseline) — design it as a shareable card to create organic viral growth loops.",
+    "representative_quotes": [
+      "Recommendations are stuck"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_1_1782503108",
+        "source": "reddit",
+        "author": "MusicFan",
+        "title": "Recommendation echo",
+        "content": "Recommendations are stuck",
+        "rating": 3,
+        "date": "2026-06-26T19:45:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_17_1782483188",
+        "source": "reddit",
+        "author": "MusicFan",
+        "title": "Recommendation echo",
+        "content": "Recommendations are stuck",
+        "rating": 3,
+        "date": "2026-06-26T14:13:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_33_1782466868",
+        "source": "reddit",
+        "author": "MusicFan",
+        "title": "Recommendation echo",
+        "content": "Recommendations are stuck",
+        "rating": 3,
+        "date": "2026-06-26T09:41:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_49_1782446948",
+        "source": "reddit",
+        "author": "MusicFan",
+        "title": "Recommendation echo",
+        "content": "Recommendations are stuck",
+        "rating": 3,
+        "date": "2026-06-26T04:09:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_65_1782430628",
+        "source": "reddit",
+        "author": "MusicFan",
+        "title": "Recommendation echo",
+        "content": "Recommendations are stuck",
+        "rating": 3,
+        "date": "2026-06-25T23:37:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "Indie releases are missing"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_12_1782491888",
+        "source": "reddit",
+        "author": "NicheMusic",
+        "title": "Niche songs",
+        "content": "Indie releases are missing",
+        "rating": 3,
+        "date": "2026-06-26T16:38:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_28_1782471968",
+        "source": "reddit",
+        "author": "NicheMusic",
+        "title": "Niche songs",
+        "content": "Indie releases are missing",
+        "rating": 3,
+        "date": "2026-06-26T11:06:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_44_1782452048",
+        "source": "reddit",
+        "author": "NicheMusic",
+        "title": "Niche songs",
+        "content": "Indie releases are missing",
+        "rating": 3,
+        "date": "2026-06-26T05:34:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_60_1782435728",
+        "source": "reddit",
+        "author": "NicheMusic",
+        "title": "Niche songs",
+        "content": "Indie releases are missing",
+        "rating": 3,
+        "date": "2026-06-26T01:02:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "theme_name": "Music Discovery Algorithm Opacity",
+    "action_idea": "🔍 Feature: Introduce 'Why This Song?' — a contextual explanation panel (similar to Netflix's match score) surfacing 2-3 reasons why a track was recommended (e.g., 'Because you played X artist 4 times this week' or 'Trending among similar listeners in your city'). A/B Experiment: Test an 'Explainability Badge' on 30% of Discover Weekly tracks — measure if transparent algorithmic reasoning increases listen-through rate vs. control over 4 weeks, with secondary metrics on saves-to-library and playlist additions. PM Hypothesis: Algorithmic transparency will increase Discover Weekly full-listen rate by 18% and reduce the 'skip-on-first-listen' rate by 22%, as users feel informed rather than randomly served content, building long-term trust in Spotify's curation capabilities. Secondary Action: Build a 'Discovery Report' monthly card in each user's profile showing listening evolution (new genres explored, artists discovered, furthest genre leap from baseline) — design it as a shareable card to create organic viral growth loops.",
+    "representative_quotes": [
+      "Algorithm favors familiar music"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_7_1782493388",
+        "source": "reddit",
+        "author": "GrowthHacker",
+        "title": "Feedback loop",
+        "content": "Algorithm favors familiar music",
+        "rating": 3,
+        "date": "2026-06-26T17:03:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_23_1782477068",
+        "source": "reddit",
+        "author": "GrowthHacker",
+        "title": "Feedback loop",
+        "content": "Algorithm favors familiar music",
+        "rating": 3,
+        "date": "2026-06-26T12:31:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_39_1782460748",
+        "source": "reddit",
+        "author": "GrowthHacker",
+        "title": "Feedback loop",
+        "content": "Algorithm favors familiar music",
+        "rating": 3,
+        "date": "2026-06-26T07:59:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_55_1782440828",
+        "source": "reddit",
+        "author": "GrowthHacker",
+        "title": "Feedback loop",
+        "content": "Algorithm favors familiar music",
+        "rating": 3,
+        "date": "2026-06-26T02:27:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_71_1782424508",
+        "source": "reddit",
+        "author": "GrowthHacker",
+        "title": "Feedback loop",
+        "content": "Algorithm favors familiar music",
+        "rating": 3,
+        "date": "2026-06-25T21:55:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Discovery Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "theme_name": "Music Discovery Algorithm Opacity",
+    "action_idea": "🔍 Feature: Introduce 'Why This Song?' — a contextual explanation panel (similar to Netflix's match score) surfacing 2-3 reasons why a track was recommended (e.g., 'Because you played X artist 4 times this week' or 'Trending among similar listeners in your city'). A/B Experiment: Test an 'Explainability Badge' on 30% of Discover Weekly tracks — measure if transparent algorithmic reasoning increases listen-through rate vs. control over 4 weeks, with secondary metrics on saves-to-library and playlist additions. PM Hypothesis: Algorithmic transparency will increase Discover Weekly full-listen rate by 18% and reduce the 'skip-on-first-listen' rate by 22%, as users feel informed rather than randomly served content, building long-term trust in Spotify's curation capabilities. Secondary Action: Build a 'Discovery Report' monthly card in each user's profile showing listening evolution (new genres explored, artists discovered, furthest genre leap from baseline) — design it as a shareable card to create organic viral growth loops.",
+    "representative_quotes": [
+      "Search fails to find new music"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_6_1782498008",
+        "source": "reddit",
+        "author": "SearchUser",
+        "title": "Search issues",
+        "content": "Search fails to find new music",
+        "rating": 3,
+        "date": "2026-06-26T18:20:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_22_1782478088",
+        "source": "reddit",
+        "author": "SearchUser",
+        "title": "Search issues",
+        "content": "Search fails to find new music",
+        "rating": 3,
+        "date": "2026-06-26T12:48:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_38_1782458168",
+        "source": "reddit",
+        "author": "SearchUser",
+        "title": "Search issues",
+        "content": "Search fails to find new music",
+        "rating": 3,
+        "date": "2026-06-26T07:16:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_54_1782441848",
+        "source": "reddit",
+        "author": "SearchUser",
+        "title": "Search issues",
+        "content": "Search fails to find new music",
+        "rating": 3,
+        "date": "2026-06-26T02:44:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_70_1782421928",
+        "source": "reddit",
+        "author": "SearchUser",
+        "title": "Search issues",
+        "content": "Search fails to find new music",
+        "rating": 3,
+        "date": "2026-06-25T21:12:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "theme_name": "Playlist and Daily Mix Staleness",
+    "action_idea": "🎵 Feature: Introduce 'Playlist Freshness Scoring' — an internal quality metric flagging Daily Mixes or Discover Weekly playlists that share >60% of tracks with the previous week's version, triggering forced algorithmic diversification before delivery to the user. A/B Experiment: Test 'Dynamic Daily Mix Refresh' for 20% of users — instead of a static weekly playlist, the Daily Mix updates every 48 hours with a 30% new-track rotation, keeping the familiar core while continuously injecting novelty — measure open rates and session starts. PM Hypothesis: A 48-hour rotation cadence will increase Daily Mix open rates by 28% and re-engagement from dormant users (>7 days since last session) by 15%, as returning users encounter fresh content rather than the same stale playlist that drove disengagement. Secondary Action: Add a 'Not This Again' single-track feedback button directly in the playlist UI — aggregate these signals to train a per-user fatigue model that deprioritizes recently-heard tracks in generated playlists for a configurable 7-21 day cooldown window.",
+    "representative_quotes": [
+      "Artist radio is repetitive"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_5_1782499028",
+        "source": "reddit",
+        "author": "RadioListener",
+        "title": "Stuck radio",
+        "content": "Artist radio is repetitive",
+        "rating": 3,
+        "date": "2026-06-26T18:37:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_21_1782479108",
+        "source": "reddit",
+        "author": "RadioListener",
+        "title": "Stuck radio",
+        "content": "Artist radio is repetitive",
+        "rating": 3,
+        "date": "2026-06-26T13:05:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_37_1782462788",
+        "source": "reddit",
+        "author": "RadioListener",
+        "title": "Stuck radio",
+        "content": "Artist radio is repetitive",
+        "rating": 3,
+        "date": "2026-06-26T08:33:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_53_1782446468",
+        "source": "reddit",
+        "author": "RadioListener",
+        "title": "Stuck radio",
+        "content": "Artist radio is repetitive",
+        "rating": 3,
+        "date": "2026-06-26T04:01:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_69_1782422948",
+        "source": "reddit",
+        "author": "RadioListener",
+        "title": "Stuck radio",
+        "content": "Artist radio is repetitive",
+        "rating": 3,
+        "date": "2026-06-25T21:29:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "Wrapped is the best feature"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_13_1782487268",
+        "source": "reddit",
+        "author": "SpotifyFan",
+        "title": "Wrapped feedback",
+        "content": "Wrapped is the best feature",
+        "rating": 3,
+        "date": "2026-06-26T15:21:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_29_1782470948",
+        "source": "reddit",
+        "author": "SpotifyFan",
+        "title": "Wrapped feedback",
+        "content": "Wrapped is the best feature",
+        "rating": 3,
+        "date": "2026-06-26T10:49:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_45_1782451028",
+        "source": "reddit",
+        "author": "SpotifyFan",
+        "title": "Wrapped feedback",
+        "content": "Wrapped is the best feature",
+        "rating": 3,
+        "date": "2026-06-26T05:17:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_61_1782434708",
+        "source": "reddit",
+        "author": "SpotifyFan",
+        "title": "Wrapped feedback",
+        "content": "Wrapped is the best feature",
+        "rating": 3,
+        "date": "2026-06-26T00:45:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "App consumes too much power"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_10_1782490328",
+        "source": "reddit",
+        "author": "BatterySaver",
+        "title": "Battery drain",
+        "content": "App consumes too much power",
+        "rating": 3,
+        "date": "2026-06-26T16:12:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_26_1782474008",
+        "source": "reddit",
+        "author": "BatterySaver",
+        "title": "Battery drain",
+        "content": "App consumes too much power",
+        "rating": 3,
+        "date": "2026-06-26T11:40:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_42_1782454088",
+        "source": "reddit",
+        "author": "BatterySaver",
+        "title": "Battery drain",
+        "content": "App consumes too much power",
+        "rating": 3,
+        "date": "2026-06-26T06:08:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_58_1782437768",
+        "source": "reddit",
+        "author": "BatterySaver",
+        "title": "Battery drain",
+        "content": "App consumes too much power",
+        "rating": 3,
+        "date": "2026-06-26T01:36:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "theme_name": "Interface Layout and Navigation Disruption",
+    "action_idea": "🎨 Feature: Launch a 'Spotify Home Lab' opt-in program where power users (>3h/day listening) beta-test modular home screen layouts, including re-orderable sections: Recently Played, Discover, Your Artists, and Mood Mixes. A/B Experiment: Test a 'Persistent Mini-Player' widget that stays anchored at the top during browsing — measure tap-through rate on contextual discovery tiles vs. the current implementation over 14 days across iOS and Android cohorts separately. PM Hypothesis: Users who customize their home layout will show a 40% increase in feature discovery engagement and 20% longer session durations due to reduced cognitive friction in navigation, with the highest impact seen in users with 1-6 months of tenure (onboarding cliff zone). Secondary Action: Conduct a 5-second usability test (via in-app micro-survey) with new users in their first 7 days to identify the #1 navigation confusion point — layer heatmap data on top of this to guide the Q3 redesign sprint with quantitative backing.",
+    "representative_quotes": [
+      "New home layout is confusing"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_11_1782492908",
+        "source": "reddit",
+        "author": "CleanUI",
+        "title": "UI redesign",
+        "content": "New home layout is confusing",
+        "rating": 3,
+        "date": "2026-06-26T16:55:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "UI/UX Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_27_1782472988",
+        "source": "reddit",
+        "author": "CleanUI",
+        "title": "UI redesign",
+        "content": "New home layout is confusing",
+        "rating": 3,
+        "date": "2026-06-26T11:23:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "UI/UX Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_43_1782456668",
+        "source": "reddit",
+        "author": "CleanUI",
+        "title": "UI redesign",
+        "content": "New home layout is confusing",
+        "rating": 3,
+        "date": "2026-06-26T06:51:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "UI/UX Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_59_1782436748",
+        "source": "reddit",
+        "author": "CleanUI",
+        "title": "UI redesign",
+        "content": "New home layout is confusing",
+        "rating": 3,
+        "date": "2026-06-26T01:19:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "UI/UX Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "best music app ever",
+      "the best music app"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "0bfc1ea9-a8e2-4c73-b6fc-50f9a4d52714",
+        "source": "play_store",
+        "author": "Donnelie K Muzividzi",
+        "title": "",
+        "content": "the best music app",
+        "rating": 5,
+        "date": "2026-06-25T21:20:36Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "1d3579b1-761e-45b5-8d41-2cf36b9c2763",
+        "source": "play_store",
+        "author": "Njabulo",
+        "title": "",
+        "content": "best music app ever",
+        "rating": 5,
+        "date": "2026-06-25T21:11:05Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "the best app"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "1ee032a0-1b48-4ba2-a4a2-ab819d66702a",
+        "source": "play_store",
+        "author": "Miyagi 1X",
+        "title": "",
+        "content": "Best app",
+        "rating": 5,
+        "date": "2026-06-26T00:12:40Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "6073a4f3-b1e5-44e0-b20e-bbb87fdb1d86",
+        "source": "play_store",
+        "author": "brandina Kapandansalu",
+        "title": "",
+        "content": "the best app",
+        "rating": 5,
+        "date": "2026-06-26T00:04:39Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "very bad music app",
+      "Awesome music app"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "7cafa39e-9320-4aa1-9edd-f35519a3d12c",
+        "source": "play_store",
+        "author": "Sudhi Sudheesh",
+        "title": "",
+        "content": "very bad music app",
+        "rating": 1,
+        "date": "2026-06-25T23:24:06Z",
+        "app_version": "9.1.6.1145",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "f0b21e0a-04ad-489d-9f76-11af5a7a03b5",
+        "source": "play_store",
+        "author": "Karda Logistics",
+        "title": "",
+        "content": "Awesome music app",
+        "rating": 5,
+        "date": "2026-06-25T20:43:21Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "Too many ads on free version",
+      "too much ads"
+    ],
+    "size": 6,
+    "reviews": [
+      {
+        "review_id": "ea43079a-1394-4747-8813-5c8e1d1f2003",
+        "source": "play_store",
+        "author": "Maaz Safi",
+        "title": "",
+        "content": "too much ads",
+        "rating": 1,
+        "date": "2026-06-26T00:30:46Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "72a06c33-a5ac-47f7-93a6-f866b7bcb0b1",
+        "source": "play_store",
+        "author": "sudha badami",
+        "title": "",
+        "content": "too good",
+        "rating": 5,
+        "date": "2026-06-25T21:45:57Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_8_1782495968",
+        "source": "reddit",
+        "author": "AdHater",
+        "title": "Too many ads",
+        "content": "Too many ads on free version",
+        "rating": 3,
+        "date": "2026-06-26T17:46:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_24_1782476048",
+        "source": "reddit",
+        "author": "AdHater",
+        "title": "Too many ads",
+        "content": "Too many ads on free version",
+        "rating": 3,
+        "date": "2026-06-26T12:14:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_40_1782459728",
+        "source": "reddit",
+        "author": "AdHater",
+        "title": "Too many ads",
+        "content": "Too many ads on free version",
+        "rating": 3,
+        "date": "2026-06-26T07:42:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_56_1782439808",
+        "source": "reddit",
+        "author": "AdHater",
+        "title": "Too many ads",
+        "content": "Too many ads on free version",
+        "rating": 3,
+        "date": "2026-06-26T02:10:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "good"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "7439c164-1985-44f3-a757-806e4dd6e957",
+        "source": "play_store",
+        "author": "Johnny Salazar",
+        "title": "",
+        "content": "good",
+        "rating": 5,
+        "date": "2026-06-25T23:12:27Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "5204782f-0068-4254-97dc-f28dd8731dc7",
+        "source": "play_store",
+        "author": "Savannah Alarcon",
+        "title": "",
+        "content": "good",
+        "rating": 5,
+        "date": "2026-06-25T22:55:45Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "22eebb28-de1f-43ba-85fa-04827b3602b1",
+        "source": "play_store",
+        "author": "PUNEET MISHRA (PUNEET)",
+        "title": "",
+        "content": "good",
+        "rating": 5,
+        "date": "2026-06-25T20:15:06Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "To much ads",
+      "to many ads"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "b89f1d97-5b45-467f-bba2-6f5cded9baf4",
+        "source": "play_store",
+        "author": "Mateo Mejia",
+        "title": "",
+        "content": "To much ads",
+        "rating": 4,
+        "date": "2026-06-26T01:19:35Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "dfcfb75b-f924-4c20-97cd-1c2846fd1ac1",
+        "source": "play_store",
+        "author": "Csyp",
+        "title": "",
+        "content": "to many ads",
+        "rating": 1,
+        "date": "2026-06-26T00:42:45Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "Best listening platform",
+      "best vibe and sound",
+      "best experience"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "b919b5d9-39d9-4ca2-b76c-f1e5eadb169c",
+        "source": "play_store",
+        "author": "Kofi Gator",
+        "title": "",
+        "content": "best experience",
+        "rating": 5,
+        "date": "2026-06-25T23:23:48Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "c05f8554-5a71-44f9-ae69-24ca7208556f",
+        "source": "play_store",
+        "author": "arin das",
+        "title": "",
+        "content": "Best listening platform",
+        "rating": 5,
+        "date": "2026-06-25T22:02:26Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "60e228f8-9d1b-4ce1-a766-6cd3ba7f0cf0",
+        "source": "play_store",
+        "author": "Gunjan Gupta",
+        "title": "",
+        "content": "best vibe and sound",
+        "rating": 5,
+        "date": "2026-06-25T20:59:48Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "theme_name": "Playlist and Daily Mix Staleness",
+    "action_idea": "🎵 Feature: Introduce 'Playlist Freshness Scoring' — an internal quality metric flagging Daily Mixes or Discover Weekly playlists that share >60% of tracks with the previous week's version, triggering forced algorithmic diversification before delivery to the user. A/B Experiment: Test 'Dynamic Daily Mix Refresh' for 20% of users — instead of a static weekly playlist, the Daily Mix updates every 48 hours with a 30% new-track rotation, keeping the familiar core while continuously injecting novelty — measure open rates and session starts. PM Hypothesis: A 48-hour rotation cadence will increase Daily Mix open rates by 28% and re-engagement from dormant users (>7 days since last session) by 15%, as returning users encounter fresh content rather than the same stale playlist that drove disengagement. Secondary Action: Add a 'Not This Again' single-track feedback button directly in the playlist UI — aggregate these signals to train a per-user fatigue model that deprioritizes recently-heard tracks in generated playlists for a configurable 7-21 day cooldown window.",
+    "representative_quotes": [
+      "Daily mix does not update"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_3_1782501068",
+        "source": "reddit",
+        "author": "AudioLover",
+        "title": "Stuck mix",
+        "content": "Daily mix does not update",
+        "rating": 3,
+        "date": "2026-06-26T19:11:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_19_1782481148",
+        "source": "reddit",
+        "author": "AudioLover",
+        "title": "Stuck mix",
+        "content": "Daily mix does not update",
+        "rating": 3,
+        "date": "2026-06-26T13:39:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_35_1782461228",
+        "source": "reddit",
+        "author": "AudioLover",
+        "title": "Stuck mix",
+        "content": "Daily mix does not update",
+        "rating": 3,
+        "date": "2026-06-26T08:07:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_51_1782444908",
+        "source": "reddit",
+        "author": "AudioLover",
+        "title": "Stuck mix",
+        "content": "Daily mix does not update",
+        "rating": 3,
+        "date": "2026-06-26T03:35:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_67_1782424988",
+        "source": "reddit",
+        "author": "AudioLover",
+        "title": "Stuck mix",
+        "content": "Daily mix does not update",
+        "rating": 3,
+        "date": "2026-06-25T22:03:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 19,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "Great app and Great sound quality.",
+      "it's a 100 for me... grand app"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "07c19333-2485-49f1-9870-e7bdd84b52f7",
+        "source": "play_store",
+        "author": "Ephraim Zulu",
+        "title": "",
+        "content": "it's a 100 for me... grand app",
+        "rating": 5,
+        "date": "2026-06-25T23:58:00Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "5c3ee8e5-7bea-46a8-8489-90f4b6ba9b1a",
+        "source": "play_store",
+        "author": "James McAllister",
+        "title": "",
+        "content": "Great app and Great sound quality.",
+        "rating": 5,
+        "date": "2026-06-25T22:07:36Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 20,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "Really, wonderful app",
+      "I love this app"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "5d22a5b7-6890-4783-8c60-0758291c036b",
+        "source": "play_store",
+        "author": "George Nazer",
+        "title": "",
+        "content": "Really, wonderful app",
+        "rating": 5,
+        "date": "2026-06-25T22:57:28Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "c4b97c3e-3de9-4b81-8a58-749742b26c0d",
+        "source": "play_store",
+        "author": "Nathan Hernandez",
+        "title": "",
+        "content": "I love this app",
+        "rating": 5,
+        "date": "2026-06-25T22:21:36Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 21,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "greatest app ever",
+      "excellent app"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "5fcdee6d-e4f6-4bf9-bc3f-123ab8bde3b4",
+        "source": "play_store",
+        "author": "Eny Lakra",
+        "title": "",
+        "content": "nic app",
+        "rating": 5,
+        "date": "2026-06-25T23:23:55Z",
+        "app_version": "8.9.84.594",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "be348efe-d8ba-4f32-8cad-6008fe363732",
+        "source": "play_store",
+        "author": "Jordan Botha",
+        "title": "",
+        "content": "greatest app ever",
+        "rating": 5,
+        "date": "2026-06-25T22:19:49Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "a8041cf0-e5cc-43d7-90d8-eaab25bd518f",
+        "source": "play_store",
+        "author": "David Jarvie",
+        "title": "",
+        "content": "excellent app",
+        "rating": 5,
+        "date": "2026-06-25T22:17:21Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 22,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "it's easy to search for a song",
+      "amazing easy to listen to"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "40bc9edf-6a3b-4e18-940e-ca76c2d35475",
+        "source": "play_store",
+        "author": "Matshidiso Mashimbye",
+        "title": "",
+        "content": "it's easy to search for a song",
+        "rating": 5,
+        "date": "2026-06-25T23:42:56Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "6c780b19-2c6f-4903-8ba6-2337854c1158",
+        "source": "play_store",
+        "author": "Shonagh Walsh",
+        "title": "",
+        "content": "amazing easy to listen to",
+        "rating": 5,
+        "date": "2026-06-25T21:56:00Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 23,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "good app, but with premium it's much better.",
+      "it has too much adss"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "42d77e3d-807a-40fa-bd53-57398c11b273",
+        "source": "play_store",
+        "author": "Jocelyn",
+        "title": "",
+        "content": "good app, but with premium it's much better.",
+        "rating": 5,
+        "date": "2026-06-25T23:24:50Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "Premium User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "c82a1641-429d-42cc-acb7-b93edc989bee",
+        "source": "play_store",
+        "author": "Mbangula Joy",
+        "title": "",
+        "content": "it has too much adss",
+        "rating": 2,
+        "date": "2026-06-25T21:17:08Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 24,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "Still no EQ setting on iOS"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_15_1782488828",
+        "source": "reddit",
+        "author": "EqualizerNeed",
+        "title": "No EQ",
+        "content": "Still no EQ setting on iOS",
+        "rating": 3,
+        "date": "2026-06-26T15:47:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_31_1782468908",
+        "source": "reddit",
+        "author": "EqualizerNeed",
+        "title": "No EQ",
+        "content": "Still no EQ setting on iOS",
+        "rating": 3,
+        "date": "2026-06-26T10:15:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_47_1782448988",
+        "source": "reddit",
+        "author": "EqualizerNeed",
+        "title": "No EQ",
+        "content": "Still no EQ setting on iOS",
+        "rating": 3,
+        "date": "2026-06-26T04:43:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_63_1782429068",
+        "source": "reddit",
+        "author": "EqualizerNeed",
+        "title": "No EQ",
+        "content": "Still no EQ setting on iOS",
+        "rating": 3,
+        "date": "2026-06-25T23:11:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 25,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "always on always good",
+      "Good! And Relaxing!",
+      "it good for game"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "43c18051-62fc-4fc8-9459-da2461043878",
+        "source": "play_store",
+        "author": "Mukankubana Xaverine",
+        "title": "",
+        "content": "Good! And Relaxing!",
+        "rating": 5,
+        "date": "2026-06-26T00:00:49Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "9d891cd6-d50c-49c8-a21e-632575ffe1a0",
+        "source": "play_store",
+        "author": "Angel Espinobarros",
+        "title": "",
+        "content": "it good for game",
+        "rating": 5,
+        "date": "2026-06-25T23:00:25Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "7d0204e3-592b-4437-9d32-ba65e2afdd3a",
+        "source": "play_store",
+        "author": "William Lotharius",
+        "title": "",
+        "content": "always on always good",
+        "rating": 5,
+        "date": "2026-06-25T22:36:32Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "5250b50f-f230-49de-a7b4-4a9e71eed8a9",
+        "source": "play_store",
+        "author": "S_K KHATTAB",
+        "title": "",
+        "content": "good but soo ad",
+        "rating": 3,
+        "date": "2026-06-25T21:55:07Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 26,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "really good"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "ad0c43d6-9f49-484b-ab1b-7c9d030649ef",
+        "source": "play_store",
+        "author": "Timothy Harris",
+        "title": "",
+        "content": "Good stuff",
+        "rating": 5,
+        "date": "2026-06-25T21:41:57Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "20746f38-4e0d-48aa-b8ed-3df0ade718a7",
+        "source": "play_store",
+        "author": "Simon George",
+        "title": "",
+        "content": "really good",
+        "rating": 5,
+        "date": "2026-06-25T21:11:30Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 27,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "too many ads as l don't want this and any premium",
+      "Too Expencive"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "e3b32299-9a76-4811-b5e0-293d47543984",
+        "source": "play_store",
+        "author": "John Fowler",
+        "title": "",
+        "content": "Too Expencive",
+        "rating": 1,
+        "date": "2026-06-25T21:59:39Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "140d71d6-ec00-4a85-8591-39322f87a3ff",
+        "source": "play_store",
+        "author": "Prity Tiwari",
+        "title": "",
+        "content": "too many ads as l don't want this and any premium",
+        "rating": 5,
+        "date": "2026-06-25T20:32:54Z",
+        "app_version": "9.1.50.1906",
+        "inferred_segments": [
+          "Premium User",
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 28,
+    "theme_name": "Premium Value Perception Gap",
+    "action_idea": "💎 Feature: Launch 'Premium Perks Hub' — a dedicated in-app page that dynamically showcases the value received this month: hours of ad-free listening saved, offline tracks downloaded, songs skipped, exclusive content unlocked, and estimated mobile data saved. A/B Experiment: Send a personalized 'Your Spotify Month in Numbers' push notification at day 25 of each billing cycle to 25% of at-risk churners (users with declining session frequency) — measure 30-day retention uplift and cancellation intent click-through vs. control. PM Hypothesis: Making the invisible value of Premium visible will reduce voluntary cancellations by 12% among users in their 3rd-6th month (the highest churn risk window) and improve NPS scores in the subscription tier by 7 points within two billing cycles. Secondary Action: Introduce a 'Pause Subscription' option (2–4 week pause with music access preserved) as a churn-prevention alternative to cancellation — A/B test its impact on 12-month LTV vs. users not offered the pause option, tracking reactivation rate and time-to-resubscribe.",
+    "representative_quotes": [
+      "after a time you need to switch to premium",
+      "enjoy listen to Spotify",
+      "LISTEN TO MJ please"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "447a51bb-3dda-4ae3-9484-3b5f601c3c48",
+        "source": "play_store",
+        "author": "Taha",
+        "title": "",
+        "content": "LISTEN TO MJ please",
+        "rating": 4,
+        "date": "2026-06-26T00:10:34Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "2091edfc-0c85-4d11-94bd-8d3eacc8f1ef",
+        "source": "play_store",
+        "author": "Lorraine Pagdilao",
+        "title": "",
+        "content": "enjoy listen to Spotify",
+        "rating": 5,
+        "date": "2026-06-25T23:17:52Z",
+        "app_version": "9.1.32.2083",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "ada91ef1-3ba0-4dde-b5b3-88ab678b6d90",
+        "source": "play_store",
+        "author": "Zaid Ansari",
+        "title": "",
+        "content": "after a time you need to switch to premium",
+        "rating": 5,
+        "date": "2026-06-25T22:42:18Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Premium User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 29,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "my therapy and needs to be pumped into my veins.",
+      "Spotify has helped me to connect with my kids.",
+      "ham to pagal robot hai demag ki days kardi hai"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "f1d4bc27-1e41-46bc-bd15-b7522a4c72eb",
+        "source": "play_store",
+        "author": "Jason Tyrrell",
+        "title": "",
+        "content": "Spotify has helped me to connect with my kids.",
+        "rating": 5,
+        "date": "2026-06-26T00:59:53Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "197a4672-f2f1-4caf-8a72-afb0768c3825",
+        "source": "play_store",
+        "author": "zena",
+        "title": "",
+        "content": "my therapy and needs to be pumped into my veins.",
+        "rating": 5,
+        "date": "2026-06-25T21:19:09Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "24cb2dda-67de-4bd0-bbe9-ec8a6742a7cc",
+        "source": "play_store",
+        "author": "Kiran Atif",
+        "title": "",
+        "content": "ham to pagal robot hai demag ki days kardi hai",
+        "rating": 1,
+        "date": "2026-06-25T21:18:56Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 30,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "incredible experience"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "c457fb3d-0a8d-4aa9-998f-db70358974bb",
+        "source": "play_store",
+        "author": "Julien Mig",
+        "title": "",
+        "content": "excellent",
+        "rating": 4,
+        "date": "2026-06-25T23:49:48Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "f794cf3a-c20a-4271-8ab8-ad91502affd5",
+        "source": "play_store",
+        "author": "Buddhin Gunasekara",
+        "title": "",
+        "content": "excellent!",
+        "rating": 5,
+        "date": "2026-06-25T22:14:11Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "a65ac3f2-709c-44f8-ac18-a2fee14db7ad",
+        "source": "play_store",
+        "author": "krishna kiliyath rakesh",
+        "title": "",
+        "content": "incredible experience",
+        "rating": 5,
+        "date": "2026-06-25T21:13:10Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 31,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "ads thats it",
+      "Ads problem"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "6d83850b-8468-4a78-8479-69ec0b4dd82d",
+        "source": "play_store",
+        "author": "Carlos Acuna V69",
+        "title": "",
+        "content": "ads thats it",
+        "rating": 1,
+        "date": "2026-06-26T00:43:09Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "3ca94ce1-324a-4ce0-9c6d-1962917ba017",
+        "source": "play_store",
+        "author": "Nikhil Sharma",
+        "title": "",
+        "content": "Ads problem",
+        "rating": 3,
+        "date": "2026-06-25T21:14:48Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 32,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "Connect has delay between devices"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_14_1782486248",
+        "source": "reddit",
+        "author": "ConnectUser",
+        "title": "Connect lag",
+        "content": "Connect has delay between devices",
+        "rating": 3,
+        "date": "2026-06-26T15:04:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_30_1782469928",
+        "source": "reddit",
+        "author": "ConnectUser",
+        "title": "Connect lag",
+        "content": "Connect has delay between devices",
+        "rating": 3,
+        "date": "2026-06-26T10:32:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_46_1782453608",
+        "source": "reddit",
+        "author": "ConnectUser",
+        "title": "Connect lag",
+        "content": "Connect has delay between devices",
+        "rating": 3,
+        "date": "2026-06-26T06:00:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_62_1782433688",
+        "source": "reddit",
+        "author": "ConnectUser",
+        "title": "Connect lag",
+        "content": "Connect has delay between devices",
+        "rating": 3,
+        "date": "2026-06-26T00:28:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 33,
+    "theme_name": "Offline Mode and Data Usage Friction",
+    "action_idea": "📲 Feature: Build 'Smart Offline Sync' — an ML model predicting which playlists a user is most likely to listen to in the next 48 hours based on time-of-day patterns, location context, and calendar signals (e.g., commute times, gym check-ins), auto-downloading on Wi-Fi overnight. A/B Experiment: Test 'Adaptive Bitrate Offline Mode' — allow users to choose download quality per playlist (Standard 96kbps / High 160kbps / Max 320kbps) with an estimated storage footprint preview, directly reducing storage friction for budget-device users in emerging markets. PM Hypothesis: Predictive offline sync will increase the percentage of users with ≥1 offline playlist from 34% to 52%, directly improving retention among users in bandwidth-constrained markets (India, SEA, LatAm) where mobile data costs are a primary driver of listening session abandonment. Secondary Action: Introduce a 'Data Saver Mode' toggle that intelligently streams at adaptive low-bitrate when cellular data usage exceeds a user-set monthly threshold — measure impact on monthly active listening minutes in emerging markets vs. control.",
+    "representative_quotes": [
+      "Offline mode keeps failing"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "reddit_mock_9_1782494948",
+        "source": "reddit",
+        "author": "PremiumUser",
+        "title": "Offline bug",
+        "content": "Offline mode keeps failing",
+        "rating": 3,
+        "date": "2026-06-26T17:29:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_25_1782478628",
+        "source": "reddit",
+        "author": "PremiumUser",
+        "title": "Offline bug",
+        "content": "Offline mode keeps failing",
+        "rating": 3,
+        "date": "2026-06-26T12:57:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_41_1782455108",
+        "source": "reddit",
+        "author": "PremiumUser",
+        "title": "Offline bug",
+        "content": "Offline mode keeps failing",
+        "rating": 3,
+        "date": "2026-06-26T06:25:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "reddit_mock_57_1782438788",
+        "source": "reddit",
+        "author": "PremiumUser",
+        "title": "Offline bug",
+        "content": "Offline mode keeps failing",
+        "rating": 3,
+        "date": "2026-06-26T01:53:08.985823Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 34,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "It's ok"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "45135ff6-9ed5-4adc-b507-e64148be50f2",
+        "source": "play_store",
+        "author": "Squirm Dw",
+        "title": "",
+        "content": "It's ok",
+        "rating": 5,
+        "date": "2026-06-26T00:53:16Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "5c32ccbb-9295-46a4-b1a9-1798a2b1cc3a",
+        "source": "play_store",
+        "author": "Kate Pattengale",
+        "title": "",
+        "content": "I love it",
+        "rating": 5,
+        "date": "2026-06-25T22:00:59Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "9fc7bae1-afc0-49ff-937b-2a5aefca0923",
+        "source": "play_store",
+        "author": "Phoenix Treacy",
+        "title": "",
+        "content": "love it",
+        "rating": 5,
+        "date": "2026-06-25T20:34:11Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 35,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "💡 Feature: Introduce 'Spotify Ad Tokens' — a gamified daily reward system where Free users earn ad-skip credits by completing micro-interactions (e.g., rating a song, adding to a playlist, or sharing a track with a friend). A/B Experiment: Test a 'Contextual Ad Pause' feature for a 10% sample of Free users, reducing ad frequency during identified high-engagement sessions (e.g., workout playlists, study sessions) to reduce session abandonment — measure session completion rate delta. PM Hypothesis: Reducing ads during high-engagement moments will improve Free-to-Premium conversion rate by 8% MoM, as users experience premium-like flow states that create a desire for uninterrupted listening and lower the psychological barrier to upgrading. Secondary Action: Pilot a 'Premium Day Pass' bundle at ₹29 / $0.99 to capture impulsive upgrade intent — measure 7-day retention of day-pass buyers as a leading indicator for monthly subscription intent and LTV trajectory.",
+    "representative_quotes": [
+      "It's very quick on finding song",
+      "bas ads thode kam karo",
+      "ads just hate themm."
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "2be7831c-36c5-4386-afa5-896dab37f218",
+        "source": "play_store",
+        "author": "C. Mantweni",
+        "title": "",
+        "content": "It's very quick on finding song",
+        "rating": 5,
+        "date": "2026-06-26T01:07:16Z",
+        "app_version": "9.1.34.2060",
+        "inferred_segments": [
+          "UI/UX Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "225b05a9-762b-4527-9583-3eb918268109",
+        "source": "play_store",
+        "author": "Farhan saifi",
+        "title": "",
+        "content": "bas ads thode kam karo",
+        "rating": 5,
+        "date": "2026-06-26T00:16:29Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "24882737-1798-4f30-ab88-2e144f53ea03",
+        "source": "play_store",
+        "author": "Meenackshi Srivastava",
+        "title": "",
+        "content": "ads just hate themm.",
+        "rating": 4,
+        "date": "2026-06-25T23:43:37Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 36,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "my experience awesome"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "d67291c9-b223-4b68-89d5-ab1feae9ed5c",
+        "source": "play_store",
+        "author": "John Szulborski",
+        "title": "",
+        "content": "awesome",
+        "rating": 5,
+        "date": "2026-06-26T00:55:17Z",
+        "app_version": "9.0.86.1358",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "ae9e9c0b-2f16-4d2d-ae0e-8f460f8df0b2",
+        "source": "play_store",
+        "author": "Raymond Gibbs",
+        "title": "",
+        "content": "my experience awesome",
+        "rating": 5,
+        "date": "2026-06-25T23:42:07Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "34ceab50-48ee-4a5c-abee-11b7d4fa7300",
+        "source": "play_store",
+        "author": "Pedro j Perez jr",
+        "title": "",
+        "content": "awesome",
+        "rating": 5,
+        "date": "2026-06-25T21:45:02Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "fd0c9397-00bb-4e34-a36f-fdbf6c7407f4",
+        "source": "play_store",
+        "author": "satvikay pandey",
+        "title": "",
+        "content": "very bad",
+        "rating": 1,
+        "date": "2026-06-25T21:26:59Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 37,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "great and fast",
+      "great sounds"
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "bb23a155-a763-48ff-b916-78ca4f498151",
+        "source": "play_store",
+        "author": "RAD Dessau",
+        "title": "",
+        "content": "great sounds",
+        "rating": 5,
+        "date": "2026-06-26T00:03:48Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "fcd4acd0-b563-4175-b4ed-7d124e469341",
+        "source": "play_store",
+        "author": "France Machava",
+        "title": "",
+        "content": "great and fast",
+        "rating": 5,
+        "date": "2026-06-25T23:25:55Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 38,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "Great"
+    ],
+    "size": 3,
+    "reviews": [
+      {
+        "review_id": "ab4c899b-c8d8-40f5-8fac-950b79fff077",
+        "source": "play_store",
+        "author": "Cedric Mawa Kagorora",
+        "title": "",
+        "content": "Great",
+        "rating": 5,
+        "date": "2026-06-26T00:26:08Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "84ee426b-4044-48c6-a6f8-d9f84fe8b740",
+        "source": "play_store",
+        "author": "Vusimuzi Mashiloane",
+        "title": "",
+        "content": "great",
+        "rating": 5,
+        "date": "2026-06-25T23:38:35Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "826d500c-df7e-4cc2-b129-be288a6063fd",
+        "source": "play_store",
+        "author": "Joecel Page",
+        "title": "",
+        "content": "Great!",
+        "rating": 5,
+        "date": "2026-06-25T23:34:53Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 39,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "Absolutely marvelous",
+      "bestttttttttt asf",
+      "ausome!!!!!!!!"
+    ],
+    "size": 8,
+    "reviews": [
+      {
+        "review_id": "b3c137c2-d6be-4566-b240-de709ce3aaea",
+        "source": "play_store",
+        "author": "Aleksandra Jagodic",
+        "title": "",
+        "content": "Fantastic !!!",
+        "rating": 5,
+        "date": "2026-06-26T01:21:19Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "223b0898-930c-4c80-b9ac-c6bab921b6d3",
+        "source": "play_store",
+        "author": "Neeleshwar",
+        "title": "",
+        "content": "awsome",
+        "rating": 5,
+        "date": "2026-06-25T23:10:54Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "44e50013-5f7f-4edb-a8d6-0abc05c4f82d",
+        "source": "play_store",
+        "author": "p sree keerth",
+        "title": "",
+        "content": "superp",
+        "rating": 5,
+        "date": "2026-06-25T22:17:27Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "b6fe158c-71a4-4f29-80cf-a007c8d021fe",
+        "source": "play_store",
+        "author": "Dominique Ntome",
+        "title": "",
+        "content": "Absolutely marvelous",
+        "rating": 5,
+        "date": "2026-06-25T22:13:25Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "a0b528a4-9224-43fe-b12c-fe032e030909",
+        "source": "play_store",
+        "author": "Stephen Lim",
+        "title": "",
+        "content": "ausome!!!!!!!!",
+        "rating": 5,
+        "date": "2026-06-25T22:02:55Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "b756f5a8-a29e-4fde-b1c8-b68020b0ef63",
+        "source": "play_store",
+        "author": "Shubhi",
+        "title": "",
+        "content": "bestttttttttt asf",
+        "rating": 5,
+        "date": "2026-06-25T21:30:53Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "261c0909-8a78-4445-a45b-48db52531201",
+        "source": "play_store",
+        "author": "Rashmi Praveen",
+        "title": "",
+        "content": "excellentttttr",
+        "rating": 5,
+        "date": "2026-06-25T20:47:44Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "bbaf2263-c583-431b-8d73-4dc9ddef0589",
+        "source": "play_store",
+        "author": "Mohammed Mamun",
+        "title": "",
+        "content": "wishful",
+        "rating": 4,
+        "date": "2026-06-25T20:40:26Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 40,
+    "theme_name": "User Experience Insights",
+    "action_idea": "Launch a 'Voice of the User' bi-weekly synthesis session with cross-functional PMs and engineers. Segment these reviews by NPS tier (Promoters/Passives/Detractors) and feed the top 3 pain-points into the quarterly OKR refinement cycle. Hypothesis: structured user feedback loops improve feature prioritization accuracy by 30% and reduce churn-inducing friction within 2 sprints. Secondary Action: Build an internal 'Feedback Heatmap' that overlays review sentiment onto the product feature map — this makes it immediately visible which product areas generate disproportionate negative signal vs. volume of usage.",
+    "representative_quotes": [
+      "content was about guns, drugs and naked women."
+    ],
+    "size": 2,
+    "reviews": [
+      {
+        "review_id": "a3a72a37-0cac-485e-8509-9bc24742a772",
+        "source": "play_store",
+        "author": "Harsh Chotaliya",
+        "title": "",
+        "content": "ok ok",
+        "rating": 2,
+        "date": "2026-06-26T01:15:40Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "1e924b9e-e6a9-443d-a11a-5db6768ba6dc",
+        "source": "play_store",
+        "author": "Kevin Obasa",
+        "title": "",
+        "content": "content was about guns, drugs and naked women.",
+        "rating": 1,
+        "date": "2026-06-25T21:13:30Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": -1,
+    "theme_name": "Unclustered General Feedback",
+    "action_idea": "Monitor for new emerging themes as feedback grows.",
+    "representative_quotes": [
+      "it's good ads are a little annoying but still good",
+      "it is the best platform to listen to music"
+    ],
+    "size": 22,
+    "reviews": [
+      {
+        "review_id": "1804c054-21df-45c2-b35b-ad84e64906e3",
+        "source": "play_store",
+        "author": "Ton Kenson",
+        "title": "",
+        "content": "it's good ads are a little annoying but still good",
+        "rating": 4,
+        "date": "2026-06-26T01:15:04Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "26bad411-7089-4a23-9d63-7b243ad81efc",
+        "source": "play_store",
+        "author": "Gosiame OMG",
+        "title": "",
+        "content": "it is the best platform to listen to music",
+        "rating": 5,
+        "date": "2026-06-26T01:06:34Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "9ab2afa0-c9fa-4a6b-9565-14c8e2e74f25",
+        "source": "play_store",
+        "author": "Paraschiv Adrian",
+        "title": "",
+        "content": "to many adds",
+        "rating": 1,
+        "date": "2026-06-26T00:45:13Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "b77f00eb-6a26-49ee-86ed-b7ea581c27b1",
+        "source": "play_store",
+        "author": "MD ROFIK UDDIN",
+        "title": "",
+        "content": "good app so wow",
+        "rating": 5,
+        "date": "2026-06-26T00:38:22Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "b423d293-9cb3-440e-8649-63335fb62f1f",
+        "source": "play_store",
+        "author": "Oreti Senilagakali",
+        "title": "",
+        "content": "thanks liked it very much....",
+        "rating": 5,
+        "date": "2026-06-26T00:24:27Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "88fbd59c-1af4-4f5f-b23d-f8025957aca4",
+        "source": "play_store",
+        "author": "Bowen Dubsky",
+        "title": "",
+        "content": "SPOTIFY IS GOAT",
+        "rating": 5,
+        "date": "2026-06-26T00:00:22Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "f2283777-1224-4d65-9e2d-7cfad507c749",
+        "source": "play_store",
+        "author": "Archer Fowler",
+        "title": "",
+        "content": "I like the platform layout",
+        "rating": 5,
+        "date": "2026-06-25T23:50:47Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "UI/UX Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "6b4b1303-7b9e-46b2-b723-85c2fa815a19",
+        "source": "play_store",
+        "author": "Calvin Horner",
+        "title": "",
+        "content": "AI has no place in music. Delete your Spotify.",
+        "rating": 1,
+        "date": "2026-06-25T23:34:33Z",
+        "app_version": "9.0.68.613",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "92ec0723-2899-41fb-9100-5980a59d5a38",
+        "source": "play_store",
+        "author": "Noah Gere",
+        "title": "",
+        "content": "awesome but a lot of ads",
+        "rating": 4,
+        "date": "2026-06-25T23:31:54Z",
+        "app_version": "",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "4f6fd8b2-5f7d-4eb8-b929-d9742ee930ec",
+        "source": "play_store",
+        "author": "Virat Mishra",
+        "title": "",
+        "content": "wow wow",
+        "rating": 5,
+        "date": "2026-06-25T23:25:52Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "83ab1b10-2aa9-4db9-bbf3-7b5e330a1ffd",
+        "source": "play_store",
+        "author": "Roland Deleon",
+        "title": "",
+        "content": "Spotify for the past 3 days keep crashing",
+        "rating": 3,
+        "date": "2026-06-25T23:16:18Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "ec987ef7-a746-4de3-9eb3-138042b95ed5",
+        "source": "play_store",
+        "author": "Diane Lloyd",
+        "title": "",
+        "content": "my music keeps stopping",
+        "rating": 2,
+        "date": "2026-06-25T23:05:27Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "ab5117da-ba0a-4e64-b1e0-a3c292257d25",
+        "source": "play_store",
+        "author": "Uday Kumar",
+        "title": "",
+        "content": "yep good !but hard to find original songs",
+        "rating": 4,
+        "date": "2026-06-25T22:22:05Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "1a7883e1-3700-4247-ac94-8aa86af1200d",
+        "source": "play_store",
+        "author": "123",
+        "title": "",
+        "content": "I hate the new update.",
+        "rating": 1,
+        "date": "2026-06-25T22:08:33Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "8de4e4b6-4a84-40fc-9b2e-eebfe0a7596a",
+        "source": "play_store",
+        "author": "Niha Mim",
+        "title": "",
+        "content": "best",
+        "rating": 5,
+        "date": "2026-06-25T22:05:13Z",
+        "app_version": "9.1.56.574",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "c80e275d-d19f-4ed0-a948-748c11104c59",
+        "source": "play_store",
+        "author": "Deepak Dwivedee",
+        "title": "",
+        "content": "Yah Ek Bahut Hi Achha Pletform hai artist ke lie",
+        "rating": 5,
+        "date": "2026-06-25T21:56:34Z",
+        "app_version": "9.0.36.697",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "d2ad8698-a13f-4782-a058-e302f1edc3be",
+        "source": "play_store",
+        "author": "aditya gireesh",
+        "title": "",
+        "content": "if you get premium it's awesome otherwise I won't",
+        "rating": 5,
+        "date": "2026-06-25T21:50:52Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "Premium User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "a7ce6fca-3277-4267-b159-55f5a91997ed",
+        "source": "play_store",
+        "author": "Cierra B",
+        "title": "",
+        "content": "always glitching",
+        "rating": 2,
+        "date": "2026-06-25T21:46:21Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "f1bb501f-571e-4abb-8865-8738776ca09f",
+        "source": "play_store",
+        "author": "zoralin",
+        "title": "",
+        "content": "fym wait a day to choose a song, tf?!",
+        "rating": 1,
+        "date": "2026-06-25T20:49:29Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "05df825a-8908-4389-8681-4be362b0cc6a",
+        "source": "play_store",
+        "author": "Chandrpal singh Sisodiya",
+        "title": "",
+        "content": "very nice aap",
+        "rating": 5,
+        "date": "2026-06-25T20:38:38Z",
+        "app_version": "9.1.60.1970",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "95b26f7a-2214-4d10-ab00-0b3478148748",
+        "source": "play_store",
+        "author": "Daniel ayoola",
+        "title": "",
+        "content": "good songs like Chanel from asake",
+        "rating": 5,
+        "date": "2026-06-25T20:31:45Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "045bae7d-e622-4edd-871c-a9a9d5ad448c",
+        "source": "play_store",
+        "author": "Shannon Jones",
+        "title": "",
+        "content": "Amazing",
+        "rating": 5,
+        "date": "2026-06-25T20:16:06Z",
+        "app_version": "9.1.52.1394",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  }
+]

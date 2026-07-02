@@ -1,0 +1,152 @@
+[
+  {
+    "cluster_id": 0,
+    "theme_name": "Free User Ad Frequency Frustration",
+    "action_idea": "Offer premium day-passes or ad-capping limits to improve retention of free tier users.",
+    "representative_quotes": [
+      "There is a movie called Grandview U"
+    ],
+    "size": 4,
+    "reviews": [
+      {
+        "review_id": "14209523649",
+        "source": "app_store",
+        "author": "Bodyguard627",
+        "title": "Spotify",
+        "content": "It is fun and I love listening to music on road trip",
+        "rating": 5,
+        "date": "2026-06-21T08:41:06-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209519778",
+        "source": "app_store",
+        "author": "spotifygirliepop",
+        "title": "n iwjxnejdisjxiwjabxuahxudhw",
+        "content": "TO MANY ADS BROO😭✌️",
+        "rating": 3,
+        "date": "2026-06-21T08:39:57-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "Free User"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209511428",
+        "source": "app_store",
+        "author": "Chloe Alestra",
+        "title": "Some songs are not on here",
+        "content": "There is a movie called Grandview U.S.A, and the soundtrack is fire! But I cannot find it anywhere except on YouTube. If Spotify can add that soundtrack I would happy :)",
+        "rating": 4,
+        "date": "2026-06-21T08:37:29-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "14209488022",
+        "source": "app_store",
+        "author": "ILovegoalkeeping0917",
+        "title": "Spotify",
+        "content": "Go to music app it has been helping me a lot with music and yeah I just love it",
+        "rating": 5,
+        "date": "2026-06-21T08:30:40-07:00",
+        "app_version": "9.1.58",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "theme_name": "Interface Layout and Widget Disruption",
+    "action_idea": "Restore customizable home screen widgets and simplify navigation patterns.",
+    "representative_quotes": [
+      "Spotify provides excellent quality playback and song recommendations"
+    ],
+    "size": 5,
+    "reviews": [
+      {
+        "review_id": "0df82c80-c7a4-4d2d-858c-8f9d22fa3ad7",
+        "source": "play_store",
+        "author": "Krista Woodard",
+        "title": "",
+        "content": "I love the ability to make playlists that suit my mood. And enjoying some audiobooks!",
+        "rating": 5,
+        "date": "2026-06-21T23:51:37Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Discovery Issue",
+          "UI/UX Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "d6383ecf-b52e-458e-8b05-bb1b3b8e64b8",
+        "source": "play_store",
+        "author": "Sarvesh Devrukhkar",
+        "title": "",
+        "content": "Rest, the services, Music, especially Podcasts, have fantastic experience.",
+        "rating": 5,
+        "date": "2026-06-21T23:50:03Z",
+        "app_version": "",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "adedebfc-0d12-4310-9338-e683cc4cc89e",
+        "source": "play_store",
+        "author": "Vaughn Parkes",
+        "title": "",
+        "content": "Spotify provides excellent quality playback and song recommendations. However, it would occasionally stop playing a song if it detects connection interference. And there is no immediate option for equalizing music via the app. If such an option for equalizing music was opted-out to avoid software conflicts varying from mobile to desktop operating systems, then I understand.",
+        "rating": 4,
+        "date": "2026-06-21T23:49:52Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Discovery Issue",
+          "Performance/Stability Issue"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "fa08fed3-e289-431e-8b98-a9fa0ec12816",
+        "source": "play_store",
+        "author": "niyogisubizo Donata",
+        "title": "",
+        "content": "good",
+        "rating": 5,
+        "date": "2026-06-21T23:49:10Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "General Feedback"
+        ],
+        "is_translated": false
+      },
+      {
+        "review_id": "0d1963c5-4481-4f3e-9ef6-f0d0d5026ad1",
+        "source": "play_store",
+        "author": "nazal nazal",
+        "title": "",
+        "content": "Spotify premium 😡🤮",
+        "rating": 1,
+        "date": "2026-06-21T23:47:50Z",
+        "app_version": "9.1.58.1567",
+        "inferred_segments": [
+          "Premium User"
+        ],
+        "is_translated": false
+      }
+    ]
+  }
+]
